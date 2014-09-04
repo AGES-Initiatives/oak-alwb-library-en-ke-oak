@@ -64,10 +64,10 @@ Baptism.Admonitions = "Then the newly-baptized child 9children) are presented to
 Baptism.KissHand = "The parents kiss the hand of the sponsor and the priest and receive their child"
 
 // Wedding.Rubrics
-Wed.Vows = ""
-Wed.Lit01 = ""
-Wed.RingsGroom = ""
-Wed.RingsBride = ""
+Wed.Vows = "On the soleas, in front of the Holy Gate, a table is placed with two candle sticks, the rings, the crowns (wreaths of simulated flowers on a silver tray), a cup of wine and the Holy Gospel Book on it. As the bride and groom arrive infront of the table and face the Alter, the groom to the right and the bride to his left, the priest, vested in rason, epitrahilion and phelonion, hands them lighted candles and ask the groom: <(name), do you take (N) to be your wedded wife, to love and to cherish till death do you part?> And then the bride: <(name), do you take (N) to be your wedded husband, to love and to cherish till death do you part?> If the answer of both is <yes>, he begins the service:"
+Wed.Lit01 = "The priest begins the Litany of peace"
+Wed.RingsGroom = "The priest takes the rings, blesses them over the Holy Gospel Book, touches with them the forehead of the groom first and then the forehead of the bride, and makes the sign of the Cross with the rings on both of them, saying"
+Wed.RingsBride = "Then he does the same for the bride"
 Wed.RingsOn = ""
 Wed.Ps127.Ps128 = ""
 Wed.Lit02 = ""
@@ -76,7 +76,7 @@ Wed.CrownsBride = ""
 Wed.CrownsOn = ""
 Wed.CrownsChange = ""
 Wed.CupChant = ""
-Wed.Roundtable = "The priest then leads the ghroom and the bride around the table thre times, holding them by their joined hands with his left hand, and holding the Holy Gospel Book in his right. The best man walks behind"
+Wed.Roundtable = "The priest then leads the groom and the bride around the table thre times, holding them by their joined hands with his left hand, and holding the Holy Gospel Book in his right. The best man walks behind"
 Wed.Prayer4Both = "After they have returned to their original positions, the priest reads the following prayers, first over the groom, and then over the bride."
 
 // Decorators 
