@@ -62,8 +62,29 @@ Baptism.CensesRound = "The priest then censes the neophyte, the sponsor and the 
 Baptism.CommunionAndCross = "At this time the neophyte(s)is given Holy Communion and presented with a small gold cross, a gift of the sponsor which the priest blesses and puts around his (her)(their)neck(s)."
 Baptism.Admonitions = "Then the newly-baptized child 9children) are presented to his (her)(their)parents with the following admonitions."
 Baptism.KissHand = "The parents kiss the hand of the sponsor and the priest and receive their child"
+
+// Wedding.Rubrics
+Wed.Vows = ""
+Wed.Lit01 = ""
+Wed.RingsGroom = ""
+Wed.RingsBride = ""
+Wed.RingsOn = ""
+Wed.Ps127.Ps128 = ""
+Wed.Lit02 = ""
+Wed.CrownsGroom = ""
+Wed.CrownsBride = ""
+Wed.CrownsOn = ""
+Wed.CrownsChange = ""
+Wed.CupChant = ""
+Wed.Roundtable = "The priest then leads the ghroom and the bride around the table thre times, holding them by their joined hands with his left hand, and holding the Holy Gospel Book in his right. The best man walks behind"
+Wed.Prayer4Both = "After they have returned to their original positions, the priest reads the following prayers, first over the groom, and then over the bride."
+
 // Decorators 
 Asterisks = "*******************************************"
 // Titles
 enarxis.title = "ENARXIS"
 dismissal.title = "Dismissal"
+readings.title = ""
+cup.title = ""
+crowns.take.title = ""
+bless.both.title = ""
