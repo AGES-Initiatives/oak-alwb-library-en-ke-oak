@@ -62,8 +62,8 @@ unc.pdf.header = "The Service of Holy Unction"
 unc.pdf.cover = "The Service of Holy Unction"
 
 wed.html.tab = "WEDDING"
-wed.pdf.header = ""
-wed.pdf.cover = ""
+wed.pdf.header = "The Service of Matrimony"
+wed.pdf.cover = "The Service of Matrimony"
 
 //service names
 service = "Service"
