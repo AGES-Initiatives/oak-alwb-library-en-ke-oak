@@ -79,11 +79,13 @@ Wed.CrownsChange = "The best man exchanges the crowns three times, as follows: T
 Wed.CupChant = "While the priest offers the cup first to the groom and then to the bride, from which each takes three sips, the people chant:"
 Wed.Roundtable = "The priest then leads the groom and the bride around the table three times, holding them by their joined hands with his left hand, and holding the Holy Gospel Book in his right. The best man walks behind them holding the ribbon that joins the two crowns in the middle with one hand. The priest and the people chant at each circle alternately the following three hymns:"
 Wed.Prayer4Both = "After they have returned to their original positions, the priest reads the following prayers, first over the groom, and then over the bride."
+Wed.RemoveCrowns = "When the priest reaches the point where he says '..take up their crowns into your kingdom....' he removes the crowns from their heads."
 
 // Rubrical Funeral
 Rub.Fun.ArrivalAtChurch = ""
 Fun.TonePlagIV = ""
 Fun.PriestCensing = ""
+Fun.ReaderAndPeopleChant = ""
 
 // Decorators 
 Asterisks = "*******************************************"
