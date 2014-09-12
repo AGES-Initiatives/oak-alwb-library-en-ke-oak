@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = pub.priest.servicebook_en_US_constantinides 
+A_Resource_Whose_Name = pub.priest.servicebook_en_US_constantinides
 
 // Rubrics
 WhenHierarchical = "When a Hierarch is celebrating, the Trisagios Hymn is sung as follows:"
@@ -65,9 +65,9 @@ Baptism.KissHand = "The parents kiss the hand of the sponsor and the priest and 
 
 // Wedding.Rubrics
 Wed.Vows = "On the soleas, in front of the Holy Gate, a table is placed with two candle sticks, the rings, the crowns (wreaths of simulated flowers on a silver tray), a cup of wine and the Holy Gospel Book on it. As the bride and groom arrive in front of the table and face the Altar, the groom to the right and the bride to his left, the priest, vested in rason, epitrahilion and phelonion, hands them lighted candles and ask the groom: \"(name), do you take (N) to be your wedded wife, to love and to cherish till death do you part?\" And then the bride: \"(name), do you take (N) to be your wedded husband, to love and to cherish till death do you part?\" If the answer of both is \"yes\", he begins the service:"
-Wed.Lit01 = "The priest begins the Litany of peace"
-Wed.RingsGroom = "The priest takes the rings, blesses them over the Holy Gospel Book, touches with them the forehead of the groom first and then the forehead of the bride, and makes the sign of the Cross with the rings on both of them, saying"
-Wed.RingsBride = "Then he does the same for the bride"
+Wed.Lit01 = "The priest begins the Litany of peace."
+Wed.RingsGroom = "The priest takes the rings, blesses them over the Holy Gospel Book, touches with them the forehead of the groom first and then the forehead of the bride, and makes the sign of the Cross with the rings on both of them, saying:"
+Wed.RingsBride = "Then he does the same for the bride."
 Wed.RingsOn = "He then places the rings on the third finger of their right hands, and the best man (Koumbaro or Koumbara) exchanges them as follows: He (she) takes the ring off the finger of the groom with his (her) right hand, and the ring off the bride with his (her) left hand (i.e. his (her) hands NOT crossed). Then he (she) crosses his (her) hands and touches the finger of the groom with the ring of the bride and vice-versa. The he (she) crosses his (her) hands twice more repeating the same thing. Then he (she) places the rings on the priests hand and returns to his (her) place. The priest then offers the ring of the bride to the groom and the ring of the groom to the bride and asks to place them on each other's fingers, and he returns to his place and reads the following prayer:"
 Wed.Ps127.Ps128 = "The priest starts by chanting several verses from the 127th (128th) Psalm, to each of which the people respond: Glory to you, our God, glory to you."
 Rub.Pascha = "(During Pascha season we sing \" Christ has Risen\" three times)."
