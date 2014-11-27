@@ -108,6 +108,10 @@ bless.both.title = ""
 fun.title = ""
 fun.stasis01.title = ""
 
+// Divine Liturgy General Titles
+li.servicebook.title = "THE DIVINE LITURGY"
+li.servicebook.title2 = "OF OUR FATHER AMONG THE SAINTS"
+li.servicebook.title3 = "JOHN CHRYSOSTOM"
 // Divine Liturgy Preparation Titles
 li.preparation.title = "THE SERVICE OF PREPARATION"
 li.preparation.protheseos.title = "PRAYER OF THE OFFERTORY"
