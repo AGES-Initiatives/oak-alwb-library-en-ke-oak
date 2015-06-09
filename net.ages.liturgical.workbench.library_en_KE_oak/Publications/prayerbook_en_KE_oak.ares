@@ -23,6 +23,7 @@ prbk.title.eveningprayers = "EVENING PRAYERS"
 prbk.title.occasionalprayers = "OCCASIONAL PRAYERS"
 prbk.title.tableprayers = "DINING PRAYERS"
 prbk.title.occasionalprayers2 = "PRAYERS THAT WE USE IN OUR DAILY LIFE"
+prbk.title.studyprayers = "PRAYERS FOR STUDY"
 
 prbk.rubric.morningprayers = "On awakening from your sleep, before any other work, stand piously, presenting yourself before the all-seeing God, and, placing the sign of the Cross upon yourself, say:"
 prbk.rubric2.morningprayers = "Pause a moment, so that all your senses calm and your thoughts leave all earthly things; then read the following prayers, without haste and with heartfelt attention."
@@ -131,3 +132,20 @@ prbk.enemies.text = "Lord Jesus Christ, in your great mercy you prayed for the f
 
 prbk.peace.title = "Prayer for peace"
 prbk.peace.text = "Almighty God and Creator, you are the Father of all people on the earth. Guide, I pray, all the nations and their leaders in the ways of justice and peace. Protect us from the evils of injustice, exploitation, conflict and war. Help us to put away mistrust, bitterness and hatred. Teach us to cease the storing and using of implements of war. Lead us to find peace, respect and freedom. Unite us in the making and sharing of tools of peace against ignorance, poverty, disease and oppression. Grant that we grow in harmony and friendship as brothers and sisters created in your image, to your honor and praise. Amen."
+
+prbk.love.title = "Prayer for Love"
+prbk.love.text = "Christ my God, set my heart on fire with love in you, that in its flame I may love you with all my heart, with all my mind, and with all my soul and with all my strength, and my neighbor as myself, so that by keeping your commandments I may glorify you, the Giver of every good and perfect gift. Amen. <br> Lord, make me an instrument of your peace; <br> where there is hatred, let me sow love; <br> where there is injury, pardon; <br> where there is doubt, faith; <br> where there is despair, hope; <br> where there is darkness, light; <br> and where there is sadness, joy. <br> Divine Master, grant that I may not seek to be consoled as to console; <br> to be understood, as to understand; <br> to be loved, as to love; <br> for it is in giving that we receive, <br> it is in pardoning that we are pardoned, and it is in dying that we are born to eternal life. Amen."
+
+prbk.student.title = "Prayer of a student"
+prbk.student.text = "Christ my Lord, the Giver of light and wisdom, who opened the eyes of the blind man and transformed the fishermen into wise heralds and teachers of the gospel through the coming of the Holy Spirit, shine now also in my mind the light of the grace of the Holy Spirit. Grant me discernment, understanding, and wisdom in learning. Enable me to complete my assignments and to abound in every good work, for to you I give honor and glory. Amen."
+prbk.beforestudy.title = "Prayers before study"
+prbk.beforestudy1.text = "Most blessed Lord, send the grace of the Holy Spirit on me to strengthen me that I may learn well the subject I am about to study and by it become a better person for your glory, the comfort of my family, and the benefit of your Church and our nation. Amen."
+prbk.beforestudy2.text = "O Christ, the true light, who enlightens and sanctifies every person coming into the world, let the light of your countenance shine upon me (us) that I (we) may see your unapproachable light, and guide my (our) steps in the way of your commandments, through the intercessions of your all-holy Mother and of all the Saints. Amen."
+prbk.afterstudy.title = "Prayer after study"
+prbk.afterstudy.text = "I thank you, Lord our God, that again on this occasion you have opened my eyes to the light of your wisdom. You have gladdened my heart with the knowledge of truth. I entreat you, Lord, help me always to do your will. Bless my soul and body, my words and deeds. Enable me to grow in grace, virtue and good habits, that your name may be glorified, Father, Son and Holy Spirit, now and forever. Amen."
+
+prbk.miscarriage.title = "Prayer after a miscarriage"
+prbk.miscarriage.text = "O Sovereign Master, Lord our God, who was born of the all-pure Theotokos and ever-virgin Mary, and as an infant was laid in a manger: do you yourself, according to your great mercy, have regard for this your servant (Name) who has miscarried that which was conceived in her. Heal her suffering, granting to her, O loving Lord, health and strength of body and soul. Guard her with a shining Angel from every assault of sickness and weakness and all inward torment. You who accept the innocence of infancy in your kingdom, comfort the mind of your servant and bring her peace. Amen."
+
+prbk.dead.title = "A prayer for the dead"
+prbk.dead.text = "Into your hands, O Lord, I commend the souls of your servants (Names) and beseech you to grant them rest in the place of your rest, where all your blessed saints repose, and where the light of your countenance shines forever. And I beseech you also to grant that our present lives may be godly, sober, and blameless, that we too may be made worthy to enter into your heavenly Kingdom with those we love but see no longer: for you are the resurrection and the life and the repose of your departed servants, O Christ our God, and unto you we ascribe glory: to the Father and to the Son and to the Holy Spirit, now and ever and unto the ages of ages. Amen."
