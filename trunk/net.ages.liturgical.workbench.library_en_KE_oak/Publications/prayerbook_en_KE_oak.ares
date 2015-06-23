@@ -27,6 +27,8 @@ prbk.title.studyprayers = "PRAYERS FOR STUDY"
 prbk.title.communionprayers = "COMMUNION PRAYERS"
 prbk.title.communionprep = "Prayers in Preparation for Holy Communion"
 prbk.title.communionprayers2 = "Prayers Right Before Communion"
+prbk.title.communionprayers3 = "Prayers After Receiving Communion"
+prbk.title.repentance = "(Very essential in repenting)"
 
 prbk.rubric.morningprayers = "On awakening from your sleep, before any other work, stand piously, presenting yourself before the all-seeing God, and, placing the sign of the Cross upon yourself, say:"
 prbk.rubric2.morningprayers = "Pause a moment, so that all your senses calm and your thoughts leave all earthly things; then read the following prayers, without haste and with heartfelt attention."
@@ -173,3 +175,7 @@ prbk.communion2.text = "Lord, Jesus Christ my God, release, remit, cleanse and f
 
 prbk.communion3.title = "Prayer of St. John of Damascus"
 prbk.communion3.text = "Master and Lord, Jesus Christ our God, you alone have authority to absolve men from their transgressions; forgive my sins, whether committed knowingly or in ignorance, and make me worthy to receive without condemnation your divine, glorious, pure and life-giving Mysteries; grant that they may not be for my punishment, but for my purification and sanctification, now and in your future kingdom: For you, Christ our God, are compassionate and love mankind and to you we give glory, with the Father and the Holy Spirit, now and forever. Amen."
+
+prbk.aftercommunion1 = "Lord Jesus Christ, my God, now that I have received your holy Body and Blood, grant me forgiveness of my sins and life everlasting."
+prbk.aftercommunion2 = "I thank you, loving Master, benefactor of my soul and body, that on this day you have again made me worthy of your heavenly and immortal mysteries. Direct my way on the right path. Establish me firmly in your fear. Guard my life. And make my endeavors safe, through the prayers of the glorious Theotokos and ever-virgin Mary and of all your saints. Amen."
+prbk.aftercommunion3 = "Lord Jesus Christ my God, let your sacred Body be unto me for eternal life and your precious Blood for forgiveness of sins. Let this Eucharist be unto me for joy, health and gladness. And in your awesome second coming make me, a sinner, worthy to stand at the right hand of your glory; through the intercessions of your pure Mother and of all your saints. Amen."
