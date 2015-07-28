@@ -101,8 +101,8 @@ crowns.take.title = "THE TAKING UP OF THE CROWNS"
 bless.both.title = "BLESSING OF THE BRIDE AND GROOM"
 
 //Funeral tiles
-fun.title = "THE FUNERAL SERVICE"
-fun.stasis01.title = "FIRST STASIS"
+euFUN.title = "THE FUNERAL SERVICE"
+euFUN.Key0300.title = "FIRST STASIS"
 
 // from pub.priest.servicebook_en_UK_lash
 

@@ -105,8 +105,8 @@ crowns.take.title = ""
 bless.both.title = ""
 
 //Funeral titles
-fun.title = ""
-fun.stasis01.title = ""
+euFUN.title = "THE FUNERAL SERVICE"
+euFUN.Key0300.title = "FIRST STASIS"
 
 // Service book title
 li.servicebook.title = "THE DIVINE LITURGY"
