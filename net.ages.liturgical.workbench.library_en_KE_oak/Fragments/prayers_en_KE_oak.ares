@@ -12,6 +12,8 @@ DoxaPatri.text = "Glory to the Father, and to the Son and to the Holy Spirit."
 
 DoxaSoiChriste1 = "Glory to you, O Christ our God, glory to you."
 
+DoxaSoiChriste2 = "Glory to you, O Christ our God and our hope, glory to you."
+
 EisToOnoma = "In the Name of the Father, and of the Son, and of the Holy Spirit."
 
 KaiNynKaiAei.text = "Both now and ever, and unto the ages of ages. Amen."
@@ -30,8 +32,12 @@ VasilefOuranie.text = "O heavenly King, O Comforter, the Spirit of truth, who ar
 
 enarxis01 = "Blessed is our God always, now and ever and unto the ages of ages."
 
+pet00 = "Let us pray to the Lord."
+
 res01 = "Lord, have mercy."
 
 res04 = "Amen."
+
+exc07a = "Through the grace and love for man of your only-begotten Son with whom you are blessed, together with your all-holy and good and life-giving Spirit, now and ever and unto the ages of ages."
 
 exc20 = "For yours is the kingdom, and the power, and the glory, of the Father and of the Son and of the Holy Spirit: now and ever and to the ages of ages."
