@@ -17,3 +17,6 @@ PriestOrDeacon = ""
 Reader = ""
 
 Mother = "Mother"
+
+Penitent = "Penitent"
+Penitents = "Penitents"
