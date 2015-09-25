@@ -1,0 +1,717 @@
+{'id_' : 'pub|priest|servicebook_en_UK_lash|WhenHierarchical', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|WhenNotHierarchical', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|CensingAtEpistleReading', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|BlessingTheCenser', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|CensingAndBlessingReader', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|AlleluiaAndItsVerses', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|AlleluiaModes', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|DismissalSpecificFeast', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Start', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|LayingHandsPrayer1', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|BreathesAndBlesses', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|FaceWestRenounce', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|CandidateRenounce', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|PriestHaveYou1a', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|CandidateEachTime1a', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|BreathUpon', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|CandidateBlow3Times', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Allegiance1a', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|CandidateResp1a', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|PriestHaveYou1b', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|CandidateEachTime1b', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Believe', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|CandidateResp', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|CreedRecital', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Allegiance1b', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|CandidateResp1b', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Bow', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|CandidateBow', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|PriestResp', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|RecitePrayer', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|BeginsSacrament', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|ReadsPrayerSilently', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|RecitesLoudly', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|BlessesWater', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|BreathesUponWater', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|UndressChild', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|PourOliveOil', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|CupHands', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|AnnointChild', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Nose', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Ears', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Mouth', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Chest', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Legs', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Feet', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Hands', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Back', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Immersion', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Immersion1', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Immersion2', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Immersion3', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|WhiteSheet', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Chrismation', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Tonsure', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|VestNeo', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|GarmentChant', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|WashHands', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Ablution', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|DriesFace', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|LayingHandsPrayer2', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|CensesRound', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|CommunionAndCross', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|Admonitions', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Baptism|KissHand', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Wed|Vows', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Wed|Lit01', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Wed|RingsGroom', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Wed|RingsBride', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Wed|RingsOn', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Wed|Ps127|Ps128', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Rub|Pascha', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Wed|Lit02', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Wed|CrownsGroom', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Wed|CrownsBride', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Wed|CrownsOn', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Wed|CrownsChange', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Wed|CupChant', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Wed|Roundtable', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Wed|Prayer4Both', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Rub|Fun|ArrivalAtChurch', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Fun|TonePlagIV', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Fun|PriestCensing', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Fun|ReaderAndPeopleChant', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|Asterisks', 'text' : '*******************************************'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|enarxis|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|dismissal|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|readings|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|cup|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|crowns|take|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|bless|both|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|euFUN|title', 'text' : 'THE FUNERAL SERVICE'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|euFUN|Key0300|title', 'text' : 'FIRST STASIS'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|servicebook|title', 'text' : 'THE DIVINE LITURGY'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|servicebook|title2', 'text' : 'OF OUR FATHER AMONG THE SAINTS'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|servicebook|title3', 'text' : 'JOHN CHRYSOSTOM'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|title', 'text' : 'THE SERVICE OF PREPARATION'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|protheseos|title', 'text' : 'PRAYER OF THE OFFERTORY'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|preliminaries|title', 'text' : 'PRELIMINARIES TO THE LITURGY'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|mercy', 'text' : 'God, cleanse me a sinner.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|mercy2', 'text' : 'God, cleanse me, a sinner and have mercy on me.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|mnimidikaiou', 'text' : 'The just is remembered with praises; but for you, O Forerunner, the Lord’s testimony suffices. For you were revealed as more praiseworthy than the Prophets, because you were found worthy to baptise in running streams the One they had proclaimed. Therefore you struggled bravely for the truth with joy, and preached to those in Hell a God who had appeared in flesh, who takes away the sin of the world and grants us his great mercy.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|kyrieexaposteilon', 'text' : 'Stretch out your hand, Lord, from your dwelling on high, and strengthen me for your service which now awaits me, so that, standing uncondemned before your dread altar, I may offer the sacrifice without shedding of blood. For yours is the power and the glory to the ages of ages. Amen.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|blesssticharion', 'text' : 'Master, bless the sticharion and orarion.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|agalliasetai', 'text' : 'My soul will rejoice in the Lord, for he has clothed me with a garment of salvation and wrapped me in a robe of gladness; he has placed a crown on my head as on a bridegroom, and adorned me with beauty as a bride.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|blessepitrachilion|p1', 'text' : 'Blessed is God, who pours his grace upon his priests,'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|estaidiakonos', 'text' : 'Whoever wishes to be great among you, shall be your servant.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|blesszoni|p1', 'text' : 'Blessed is God,'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|blessrightcuff', 'text' : 'Your right hand, Lord, has been glorified in strength; your right hand, Lord, has shattered enemies, and by the greatness of your glory you have crushed the adversaries.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|blesscross', 'text' : 'If someone wishes to come after me let him deny himself, take up his cross, and follow me.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|inmemory', 'text' : 'In remembrance of our Lord and God and Saviour, Jesus Christ'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|pierce', 'text' : 'Like a sheep he was led to the slaughter.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|cutleft', 'text' : 'And as an unblemished lamb before its shearer is dumb, so he does not open his mouth.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|cuttop', 'text' : 'In his humiliation judgement was denied him.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|cutbottom', 'text' : 'Who will declare his generation?'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|removelamb', 'text' : 'For his life is taken away from the earth.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|sacrifice', 'text' : 'Sacrifice, Master.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|cutlamb', 'text' : 'The Lamb of God, who takes away the sin of the world, is sacrificed for the life and salvation of the world.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|pierce2', 'text' : 'Pierce, Master.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|pierce3', 'text' : 'One of the soldiers pierced his side with a lance, and at once there came out blood and water; and he who saw it has borne witness, and his witness is true.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|holyunion', 'text' : 'Bless, Master, the holy union.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|blessunion', 'text' : 'Blessed is the union of your holy things, always, now and for ever, and to the ages of ages. Amen.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|anotherprosfora', 'text' : 'In honour and memory of our most blessed and glorious Lady, Mother of God and Ever-Virgin Mary; at whose prayers, Lord, accept this sacrifice at your altar above the heavens.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|rank1', 'text' : '1. In honour and memory of the great Captains, the Archangels Michael and Gabriel, and of all the Bodiless Powers of heaven.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|rank2', 'text' : '2. Of the honoured and glorious Prophet, Forerunner and Baptist, John; of the holy, glorious Prophets Moses and Aaron, Elias, Elissaios, David, son of Jesse, the Three Holy Youths, the prophet Daniel and all the holy Prophets.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|altrank1', 'text' : '1. In honour and memory of the honoured and glorious Prophet, Forerunner and Baptist, John.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|altrank2', 'text' : '2. Of the holy, glorious Prophets Moses and Aaron, Elias, Elissaios, David, son of Jesse, the Three Holy Youths, the prophet Daniel and all the holy Prophets.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|rank3', 'text' : '3. Of the holy, glorious and all-praised Apostles Peter and Paul, the Twelve, the Seventy and all the holy Apostles.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|rank4', 'text' : '4. Of our Fathers among the Saints, great Hierarchs and Ecumenical Teachers, Basil the Great, Gregory the Theologian and John Chrysostom, Athanasios and Cyril, Nicolas of Myra, and all holy hierarchs.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|rank5', 'text' : '5. Of the holy Protomartyr and Archdeacon Stephen; of the holy glorious Great Martyrs, George, the Victorious, Demetrios Myrovlites, Theodore the Recruit and Theodore the General; of the holy, glorious Protomartyr and Equal of the Apostles, Thekla, of Barbara, Katherine, Marina and Paraskevi; and of all holy martyrs.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|rank6', 'text' : '6. Of our venerable and God-bearing Fathers, Antony the Great, Efthymios, Savvas, Onouphrios, Peter and Athanasios of Athos; of our Venerable and God-bearing Mothers, Pelagia, Theodosia, Euphrosyne, Mary of Egypt; and of all holy ascetics.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|rank7', 'text' : '7. Of the holy Wonderworkers and Unmercenary Physicians, Cosmas and Damian, Cyrus and John, Panteleimon and Hermolaos, and all holy Unmercenary Saints.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|rank8', 'text' : '8. Of the holy and righteous Forebears of God, Joachim and Anne, of N. (the Saint of the day), whose memory we celebrate, and of all the Saints, at whose intercessions visit us, O God.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|rank9', 'text' : '9. Of our Father among the Saints John Chrysostom, Archbishop of Constantinople (or Of our Father among the Saints Basil the Great, Archbishop of Caesarea in Cappadocia).'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|particlebishop', 'text' : 'Remember, Master, Lover of mankind, every bishopric of the Orthodox, our Archbishop N., the honoured order of presbyters, the diaconate in Christ and every order of clergy, our brothers and fellow celebrants, priests and deacons, and the whole priestly and monastic order.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|remember', 'text' : 'Remember, Lord, N.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|particlesfounders', 'text' : 'For remembrance and forgiveness of sins of the blessed founders of this holy house.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|particlesdeparted2', 'text' : 'And of all our fellow Orthodox who have fallen asleep in the hope of resurrection to everlasting life, in communion with you, Lord, Lover of mankind.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|particlepriest', 'text' : 'Remember also, Lord, me your unworthy servant, and pardon me every offence, both voluntary and involuntary.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|prayerincense', 'text' : 'We offer incense to you, Christ our God, as a fragrance of spiritual sweetness. Accept it on your altar above the heavens and send down upon us in return the grace of your all-holy Spirit.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|makefirm', 'text' : 'Make firm, Master.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|makemajestic', 'text' : 'Make majestic, Master.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|cover', 'text' : 'Cover, Master.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|coverchalice', 'text' : 'Your virtue, O Christ, has covered the heavens, and the earth is full of your praise.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|shelter', 'text' : 'Shelter, Master.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|coverboth', 'text' : 'Shelter us in the shelter of your wings; drive away from us e­very enemy and adversary. Bring peace, O Lord, to our lives, have mercy on us and on your world, and save our souls, for you are good and the lover of mankind.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|wellpleased', 'text' : 'Blessed is our God, who has been thus well-pleased. Glory to you.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|praygifts', 'text' : 'For the holy and sacred Offering of the precious gifts, let us pray to the Lord. Lord, have mercy.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|protheseosprayer', 'text' : 'God, our God, who sent forth the heavenly Bread, the food of the whole world, our Lord and God Jesus Christ, as our Saviour, and Redeemer and Benefactor, to bless and sanctify us; bless this Offering, and receive it on your altar above the heavens. In your goodness and love for mankind be mindful of those who have offered it, and those for whom they have offered it; and as we celebrate your divine mysteries keep us without condemnation. For sanctified and glorified is your all-honoured and majestic name, of the Father, the Son and the Holy Spirit, now and for ever, and to the ages of ages. Amen.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|commemmorationchrysostom', 'text' : 'of our Father among the Saints John Chrysostom, Archbishop of Constantinople (Or: Basil the Great, Archbishop of Caesarea in Cappadocia),'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric1', 'text' : 'The Priest who is going to celebrate the divine Mystery must be reconciled beforehand with everyone, and have nothing against anyone; he must guard his heart, as far he can, from wicked thoughts; from the evening before he should remain abstinent, and be vigilant until the moment of the divine service.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|enteringbows', 'text' : 'When it is time, he enters the Church and, together with the Deacon, makes a bow to the Bishop’s stall and then three bows towards the east, in front of the closed Holy Doors, saying at each one:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|iconchrist', 'text' : 'Then they go and venerate the Icons. As they kiss the icon of Christ they say:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|icontheotokos', 'text' : 'As they kiss that of the Mother of God:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|iconforerunner', 'text' : 'Then the icon of the Forerunner:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|icontemple', 'text' : 'As they venerate the icon of the Patron of the Church they say the appropriate troparion.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|aftervenerating', 'text' : 'Having venerated the icons, standing again in front of the holy doors, they bow their heads, uncovered, and the Deacon says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|entrance', 'text' : 'They bow their heads asking forgiveness of the people, and so go into the Altar, the Priest through the north door and the Deacon through the south, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|veneratealtar', 'text' : 'They make three bows before the holy Table, and kiss the holy Gospel and the holy Table.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|boweast', 'text' : 'The Priest and Deacon each takes his sticharion, faces east and makes three bows, saying each time:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|deacontopriest', 'text' : 'The Deacon then approaches the Priest, and says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|stichariondeacon', 'text' : 'The Priest blesses them with the words:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|kisshand', 'text' : 'The Deacon kisses the Priest’s right hand and goes to vest.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|sticharionpriest', 'text' : 'Then the Priest blesses the cross on the back of his sticharion, kisses it and says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|wearsticharion', 'text' : 'He blesses each vestment in turn and puts it on, saying,'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|blessvestments', 'text' : 'Then the Priest, blessing each of his vestments and kissing the cross on them, puts them on, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|epitrachilion', 'text' : 'For the epitrachelion:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|orarion', 'text' : 'For the orarion:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|zoni', 'text' : 'For the girdle:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|rightcuff', 'text' : 'For the right cuff:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|leftcuff', 'text' : 'For the left cuff:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|epigonation', 'text' : 'For the epigonation, if the Priest has the right to wear it:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|felonion', 'text' : 'For the phelonion:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|cross', 'text' : 'For the pectoral Cross, if the Priest has the right to wear it:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|washhands', 'text' : 'Then they both wash their hands, saying the Psalm:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|tableofpreparation', 'text' : 'The Deacon, if there is one, if not, the Priest himself, goes to the Prothesis and prepares the sacred Vessels, placing the Paten on the left and the Chalice on the right. The Priest, wearing all his priestly vestments, goes to the Prothesis.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|bowthriceprothesis', 'text' : 'Then they make three bows before the Prothesis, saying each time:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|raiselance', 'text' : 'Then the Priest, raising the Prosphora and the Lance level with his forehead, says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|crossprosfora', 'text' : 'Then the Priest, taking a prosphora in his left hand and the Lance in his right, makes the sign of the Cross three times over the seal with the Lance, saying each time:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|pierce', 'text' : 'Then the Priest thrusts the Lance into the right-hand side of the seal, beside the letters IC.NI, and says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|cutleft', 'text' : 'As he cuts along the left side, that is beside the letters XC.KA:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|cuttop', 'text' : 'As he cuts along the upper side:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|cutbottom', 'text' : 'As he cuts along the lower side:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|removelamb', 'text' : 'Then the Priest, thrusting the lance into the right hand side of the prosphora, takes out the Lamb, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|invertlamb', 'text' : 'He lays the Lamb inverted (with the seal downward) on the paten.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|cutlamb', 'text' : 'The Priest cuts it crosswise on the underside, but taking care to leave the seal intact, and says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|revertlamb', 'text' : 'He turns the Lamb over so that the seal is uppermost.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|pierce2', 'text' : 'The Priest pierces the seal with the Lance on the right side, immediately below the letters IC, and says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|mixchalice', 'text' : 'The Deacon pours sufficient wine and water into the Chalice, saying first to the Priest:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|blesswinewater', 'text' : 'The Priest blesses them saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|coverchalice', 'text' : 'And he covers the chalice for the moment with one of the covers.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|anotherprosfora', 'text' : 'Taking another prosphora, he says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|theotokosparticle', 'text' : 'Cutting the particle for the Mother of God, he places it to the right of the Lamb, near the middle, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|saintparticles', 'text' : 'Then, taking the same, or a third, prosphora, he cuts smaller particles for the nine ranks of the Saints, and places them on the paten, to the left of the Lamb, that is to the priest’s right hand, in three rows or portions,'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|rank1', 'text' : 'so starting the first rank, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|rank2', 'text' : 'And taking a second particle he places it below the first, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|altorder', 'text' : 'Or, according to some ancient Orders:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|rank3', 'text' : 'And taking a third particle he places it below the second, thus completing the first rank, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|rank4', 'text' : 'And taking a fourth particle he places it next to the first, so starting the second rank, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|rank5', 'text' : 'And taking a fifth particle he places it below the fourth, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|rank6', 'text' : 'And taking a sixth particle he places it below the fifth, so completing the second rank, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|rank7', 'text' : 'After this, taking a seventh particle, he places it beside the fourth, so staring the third rank, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|rank8', 'text' : 'Then he takes an eighth particle and places it below the seventh, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|rank9', 'text' : 'After this he takes the ninth particle and places it below the eighth, so completing the third rank, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|particlebishop', 'text' : 'Then, from the same or another prosphora, he cuts particles for the living, and places them on the paten below the Lamb, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|particlesliving', 'text' : 'Then he commemorates the Bishop who ordained him, if he is still living, and then those of the living whose names he has, taking particles for each and saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|particlesfounders', 'text' : 'Then he cuts particles for the departed, placing them also below the Lamb, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|particlesdeparted', 'text' : 'Then, from the same or another prosphora, he remembers the Bishop who ordained him, if he is no longer alive, and others of the departed, whom he wishes, by name, saying for each:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|particlesdeparted2', 'text' : 'Then he says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|deaconcommemmorates', 'text' : 'Likewise the Deacon also remembers those whom he wishes of the living and the dead.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|particlepriest', 'text' : 'Finally the Priest cuts a particle for himself, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|takecenser', 'text' : 'The Deacon takes the censer and puts incense in it, saying to the Priest:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|blessincense', 'text' : 'The Priest blesses the incense, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|placestar', 'text' : 'The Priest censes the Star, the Deacon holding the censer, and places it on the Paten above the holy bread, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|placeveil', 'text' : 'The Priest censes the first veil, in the same way as the Star, and places it over the Paten, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|coverchalice', 'text' : 'And he covers the chalice for the moment with one of the covers.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|coverboth', 'text' : 'The Priest censes the large veil (the Aer), as before, and with it covers both the Chalice and the Paten, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|censegifts', 'text' : 'Then the Priest takes the censer and censes the Offering three times, saying each time:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|wellpleasedresponse', 'text' : 'Each time the Deacon concludes:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|bowgifts', 'text' : 'And they both bow three times before the Offering. Then the Deacon takes the censer and says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|dismissal', 'text' : 'After this he gives the Dismissal, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|censeholytable', 'text' : 'After the Dismissal the Deacon censes the holy Prothesis. Then he goes and censes the Holy Table all round, crosswise, saying in a low voice:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|psalm50', 'text' : 'And Psalm 50:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|censeall', 'text' : 'Meanwhile he censes the Sanctuary and, from the Holy Doors, the Icons the People, then re-enters the holy Altar and censes the holy Table once again and then the Priest, and puts the censer in its place.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|startliturgy', 'text' : 'When the moment to start the Liturgy has come the Priest and Deacon stand together before the holy Table and the Priest says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|bowthrice', 'text' : 'Then they bow three times and say:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|kairos', 'text' : 'The Deacon bows his head to the Priest, and says to the Priest:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|blessdeacon', 'text' : 'The Priest, placing his right hand on his head, blesses him, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|venerate', 'text' : 'Then the Priest kisses the holy Gospel and the Deacon the Holy Table and the Priest’s hand. He then goes out by the north door and stands in his usual place in front of the Holy Doors. Then he says in a loud voice:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|liturgybegins', 'text' : 'And the Liturgy begins.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|ifsunday', 'text' : 'If it is Sunday the second choir chants the Resurrection Troparion.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|firstmodes', 'text' : 'For the 1st, 2nd, 3rd and 4th Modes the following'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|altmodes', 'text' : 'For the 1st, 2nd Plagal, Grave and 4th Plagal Modes (Modes 4, 5, 6, 7) the following'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|liturgy|title', 'text' : 'THE DIVINE LITURGY OF OUR FATHER AMONG THE SAINTS JOHN CHRYSOSTOM'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|liturgycatechumens|title', 'text' : 'THE LITURGY OF THE CATECHUMENS'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|litanypeace|title', 'text' : 'LITANY OF PEACE'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|eachpetition', 'text' : 'And so after each petition.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|prayerantifon1|title', 'text' : 'PRAYER OF THE FIRST ANTIPHON'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|antifon1|title', 'text' : 'FIRST ANTIPHON'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|iffeast', 'text' : 'If it is a feast of the Lord, or of the Mother of God, or its afterfeast or leavetaking, the Antiphons of the feast are sung; otherwise the Typika are used.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|sundayantifon1', 'text' : 'On Sundays the following Antiphon is usually sung:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|verseantifon1', 'text' : 'Mode 2. Psalm 102'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|verse1', 'text' : '1st Verse:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|verse2', 'text' : '2nd Verse:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|verse3', 'text' : '3rd Verse:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|verse4', 'text' : '4th Verse:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|deaconpositionantifon1', 'text' : 'While this is being sung the Deacon bows, leaves his place and goes and stands in front of the icon of the Mother of God, looking towards the icon of Christ, holding his orarion in the three fingers of his right hand.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|deaconlitany', 'text' : 'After the completion of the Antiphon he comes and stands in his usual place, bows and says the'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|smalllitany|title', 'text' : 'SHORT LITANY'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|prayerantifon2|title', 'text' : 'PRAYER OF THE SECOND ANTIPHON'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|antifon2|title', 'text' : 'SECOND ANTIPHON'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|sundayantifon2', 'text' : 'The second Psalm of the Typika or, on Sundays, the following Antiphon:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|verseantifon2', 'text' : 'Mode 2. Psalm 145'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|notsunday', 'text' : 'On weekdays, outside Eastertide or a feast of the Lord, we sing each time:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|alldays', 'text' : 'Then, on all days:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|deaconpositionantifon2', 'text' : 'The Deacon again goes and stands in front of the icon of the Mother of God, and after the completion of the Antiphon he comes and stands in his usual place, bows and says the'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|prayerantifon3|title', 'text' : 'PRAYER OF THE THIRD ANTIPHON'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|entersouth', 'text' : 'The Deacon enters the Sanctuary by the south door.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|antifon3|title', 'text' : 'THIRD ANTIPHON'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|kai|title', 'text' : 'AND'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|smallentrance|title', 'text' : 'ENTRANCE WITH THE HOLY GOSPEL'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|sundayantifon3', 'text' : 'Then the Beatitudes, or the Third Antiphon, are sung. On Sundays the following Antiphon'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|verseantifon3', 'text' : 'in the Mode of the week. Psalm 117'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|resurrectionmode', 'text' : 'Then the Resurrection Apolytikion of the current Mode.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|resurrection', 'text' : 'Then the Resurrection Apolytikion.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|smallentrance', 'text' : 'While the Doxastikon of the Beatitudes, or the Third Antiphon, is being sung, the Priest and Deacon, standing in front of the Holy Table, make three bows; then the Priest takes the holy Gospel and gives it to the Deacon, who kisses the Priest’s hand. And so they come out through the north door, preceded by lights, and make the Little Entrance. Standing in the middle of the church they bow their heads.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|deaconquietly', 'text' : 'The Deacon, in a low voice, says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|prayerentrance|title', 'text' : 'PRAYER OF THE ENTRANCE'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|deaconquietly2', 'text' : 'When the prayer is finished, the Deacon, in a low voice, says to the Priest:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|blessentrance', 'text' : 'And the Priest, blessing the entrance, says, in a low voice:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|kissgospel', 'text' : 'The Priest kisses the Gospel. The *Deacon, standing in the middle of the church in front of the Priest and raising the sacred Gospel, says aloud:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|sundaysofpascha', 'text' : 'During Eastertide:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|kontakion1', 'text' : 'The Apolytikia for the day and for the dedication of the Church are sung and after'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|kontakion2', 'text' : 'the Kontakion of the Feast or Season.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|theotokoskontakion', 'text' : 'Mode 2. Kontakion of the Mother of God.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|trisagionprayer|title', 'text' : 'PRAYER OF THE TRISAGION'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|deaconkainyn', 'text' : '*Deacon, coming near the Holy Doors and facing the People:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|trisagionclergy', 'text' : 'The Priest and the Deacon also say the Trisagion, making three bows before the holy Table.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|command', 'text' : 'Then the Deacon says to the Priest:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|approachthrone', 'text' : 'And they go to the Throne. As they go the Priest says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|readings|title', 'text' : 'THE READINGS FROM THE NEW TESTAMENT'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|prokimenontitle', 'text' : 'Reader, coming into the middle of the church, says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|prokimenonmode', 'text' : 'Prokeimenon of the Apostle. Mode… Psalm of David.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|readprokimenon', 'text' : 'The Reader reads the Prokeimenon with its verse.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|withverses', 'text' : '(with the verses).'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|censeapostolos', 'text' : 'While the Alleluia is being sung the *Deacon, taking the censer with incense, approaches the Priest, and having received a blessing for the incense he censes the book of the Gospel, the Holy Table all round, the whole sanctuary, the Priest and, coming out a little from the Holy Doors, the principal icons and the People.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|gospelprayer|title', 'text' : 'PRAYER OF THE GOSPEL'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|blessreader', 'text' : 'The Deacon bows his head and says to the priest in a low voice:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|blessreader', 'text' : 'Master, bless the herald of the Good Tidings of the Holy Apostle and Evangelist N.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|blessreader2', 'text' : 'The Priest blesses him, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|blessreader2', 'text' : 'May God, through the prayers of the holy, glorious Apostle and Evangelist N, grant you to proclaim the word with much power, for the fulfilling of the Gospel of his Beloved Son, our Lord Jesus Christ.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|givegospel', 'text' : 'And the Priest hands him the Gospel. The Deacon, saying'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|gospelambon', 'text' : 'takes it. Having kissed the Priest’s hand, he goes out through the Holy Doors, and preceded by lights makes his way to the Ambo.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|gospel|title', 'text' : 'THE HOLY GOSPEL'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|readgospel', 'text' : 'The *Deacon chants the Gospel for the day. When it is finished the Priest blesses the Deacon saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|blesswithgospel', 'text' : 'The Priest takes the Gospel from the Deacon, kisses it and blesses the people with it. He then replaces it on the Holy Table.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|kerygma|title', 'text' : 'THE HOMILY'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|preach', 'text' : 'Then the Preacher instructs the people in the word of God.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|beginlitany', 'text' : 'Then the Deacon, standing in his usual place, says the following'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|greatlitany|title', 'text' : 'LITANY OF FERVENT SUPPLICATION'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|thriceeach', 'text' : '(Three times. And so after the remaining petitions.)'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|pet19lash', 'text' : 'Also we pray for our Archbishop N. and all our brotherhood in Christ.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|pet21lash', 'text' : 'Also we pray for mercy, life, peace, health, salvation, visitation, pardon and forgiveness of sins for the servants of God, all devout and Orthodox Christians, those who dwell in or visit this city and parish, the wardens and members of this church and their families; [and for the servants of God N and N (Here he may name those for whom he has been asked to pray), and all who have asked for our prayers, unworthy though we are.]'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|pet22lash', 'text' : 'Also we pray for the blessed and ever-remembered founders of this holy church, and for all our brothers and sisters who have gone to their rest before us, and who lie asleep here in the true faith; and for the Orthodox everywhere[, and for the servants of God N and N (Here he may name those for whom he has been asked to pray), and that they may be pardoned all their offences, both voluntary and involuntary].'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|ekteniaprayer|title', 'text' : 'PRAYER OF SUPPLICATION'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|catechumens', 'text' : 'Then the Litany for the Catechumens, those preparing for Baptism.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|prayercatechumens|title', 'text' : 'PRAYER FOR THE CATECHUMENS'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|beforeantimension|title', 'text' : '(BEFORE THE UNFOLDING OF THE ANTIMENSION)'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|liturgyfaithful|title', 'text' : 'THE LITURGY OF THE FAITHFUL'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|prayer1faithful|title', 'text' : 'FIRST PRAYER OF THE FAITHFUL'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|afterantimension|title', 'text' : '(AFTER THE UNFOLDING OF THE ANTIMENSION)'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|prayer2faithful', 'text' : 'And he enters the Sanctuary.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|prayer2faithful|title', 'text' : 'SECOND PRAYER OF THE FAITHFUL'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|cherubic|title', 'text' : 'CHERUBIC HYMN'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|withgifts|title', 'text' : 'AND GREAT ENTRANCE'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|greatentrance|title', 'text' : 'WITH THE GIFTS OF BREAD AND WINE'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|cherubic', 'text' : 'The Singers begin the Cherubic Hymn to a slow and solemn melody, in the dominant Tone of the day:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|prayercherubic', 'text' : 'While it is being sung, the Priest, in front of the Holy Table, reads, in a low voice, the'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|prayercherubic|title', 'text' : 'PRAYER OF THE CHERUBIC HYMN'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|prayercherubicsecret', 'text' : 'After the prayer the Priest and the Deacon say the Cherubic Hymn three times, as follows:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|cherubic2', 'text' : 'For we are about to receive the King of all, invisibly escorted by the angelic hosts. Alleluia, alleluia, alleluia.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|censeatcherubikon', 'text' : 'Then the Priest, or Deacon, takes the censer and censes the Holy Table, the Sanctuary, the principal icons and the People, coming out a little from the holy Doors.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|anastasin', 'text' : 'In a low voice he says, if it is Sunday,'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|andpsalmor', 'text' : 'and Psalm 50, excluding the last two verses which begin, Do good, Lord, to Sion. If it is not a Sunday he says,'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|forgive', 'text' : 'and then Psalm 50 as above. Then he enters the Sanctuary and puts away the censer. He comes with the Deacon in front of the Holy Table and they make three bows, and they say quietly troparia of compunction. They kiss the Antimension and the Holy Table, bow again and then turn to the people and bow to them, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|forgive', 'text' : 'Forgive me,'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|orsimilar', 'text' : 'or similar words.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|approachprothesis', 'text' : 'They go to the table of the Prothesis, and having made three bows they kiss the covered Holy Gifts, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|eparon', 'text' : 'Then the Deacon says to the Priest:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|wearaer', 'text' : 'The Priest lifts the Aer and places it on the shoulders of the Deacon, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|psa133|v2|fullattribution', 'text' : '(Psalm 133:2)'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|takegifts', 'text' : 'Then he takes the covered Paten and places it with every care and reverence on the Deacon’s head, while he himself takes the Holy Chalice, likewise covered.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|procession', 'text' : 'When the Singers reach the end of the first part of the Cherubic Hymn, the Deacon and the Priest come out from the north door of the Sanctuary, preceded by exapteryga, lights and incense, and pass through the north aisle and the middle of the Nave as they make the Great Entrance. As they process they proclaim, one after the other:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|completehymn', 'text' : 'And they complete the Cherubic Hymn:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|enteraltar', 'text' : 'The Priest and Deacon enter the Sanctuary.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|deaconright', 'text' : 'The Deacon, stands to the right in front of the Holy Table and says to the Priest as he enters:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|priestresponse', 'text' : 'And the Priest, as he enters, says to him:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|holydiaconate', 'text' : 'May the Lord God remember your diaconate in his Kingdom, always, now and for ever, and to the ages of ages.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|placegiftsaltar', 'text' : 'Then the Priest places the Chalice on the Holy Table, takes the Paten from the Deacon and places it to the left of the Chalice, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|noblejoseph', 'text' : 'The noble Joseph, taking your most pure Body from the Tree, wrapped it in pure linen with sweet spices and laid it for burial in a new grave.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|covergiftsaer', 'text' : 'Then he takes the covers from the sacred Paten and the Holy Chalice and lays them to one side on the Holy Table. He takes the Aer from the shoulders of the Deacon, holds it over the censer and lays it over the Chalice and Paten. Then he takes the censer and censes the Gifts three times, as the Deacon says: '}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|psa50|v20|v21|fullattribution', 'text' : '(Psalm 50:20-21)'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|rememberpriest', 'text' : 'He puts away the censer and says to the Deacon:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|praypriest', 'text' : 'Pray for me, brother and fellow celebrant.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|rememberdeacon', 'text' : 'Deacon, bowing his head, says to the Priest:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|andsaying', 'text' : 'And the Deacon, having answered'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|beginlitanygifts', 'text' : 'kisses the Priest’s right hand and goes out and stands in his usual place and says the'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|litanygifts|title', 'text' : 'LITANY OF THE PRECIOUS GIFTS'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|agapwse', 'text' : 'The Priest bows three times and kisses the Aer over the Gifts, saying in a low voice:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|kissofpeace', 'text' : 'Likewise the Deacon, standing in his place, bows and kisses the Cross on his orarion. At a concelebrated Liturgy the Priests here exchange the Kiss of Peace, the senior saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|christmidst1', 'text' : 'Christ is in our midst.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|christmidst2', 'text' : 'He is and will be.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|deaconkiss', 'text' : 'If there is more than one Deacon they also exchange the Kiss with one another in the same way.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|creed|title', 'text' : 'THE CREED'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|waveaer', 'text' : 'Meanwhile the Priest lifts the Aer and waves it above the Gifts. At the words and ascended into heaven…, he kisses the Cross in the middle of it, folds it and puts it to one side with the veils.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|deaconreturn', 'text' : 'The Deacon re-enters the Sanctuary.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|priestblessing', 'text' : 'Priest, blessing the People:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|liftinghands', 'text' : 'Priest, raising his hands:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|removestar', 'text' : 'The *Deacon takes the Star from the Paten, making the sign of the Cross with it over the Paten, kisses it and lays it aside on the Holy Table.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|exaltgifts', 'text' : 'The *Deacon crosses his hands and elevates the Chalice and Paten as the Priest says aloud:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|tasa', 'text' : 'offering you your own from your own — in all things and for all things —'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|seimnumen', 'text' : 'we praise you, we bless you, we give thanks to you, O Lord, and we pray to you, our God.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|bowinghead', 'text' : 'Priest, bowing his head with great compunction, says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|pointbread', 'text' : 'Then the Deacon, pointing to the holy Bread with his orarion, says in a low voice:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|changebread', 'text' : 'Master, bless the holy Bread.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|changebread', 'text' : 'The Priest stands upright and blesses the holy Bread, saying in a low voice:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|pointchalice', 'text' : 'Then the Deacon, pointing to the Chalice with his orarion, says in a low voice:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|changewine', 'text' : 'Master, bless the holy Cup.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|epiclesis', 'text' : 'Priest, blessing both the Chalice and Paten, says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|forvigilance', 'text' : 'The Priest, bowing profoundly, continues:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|censemegalynarion', 'text' : 'As he censes from in front of the holy Table, the Priest says, aloud:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|megalynarionfeast', 'text' : 'If it is a feast of the Lord or of the Mother of God, or its leave-taking, the Irmos of the 9th Ode of the Canon is sung instead.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|censecommemmorate', 'text' : 'The Priest gives the censer to the Deacon, who censes around the Holy Table and, in a low voice, remembers to himself those whom he wishes of the living and the dead, while the Priest continues:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|wote', 'text' : 'The *Deacon, standing at the Holy Door, recites the Diptychs of the living and then exclaims:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|blessmercy', 'text' : 'The Priest blesses the People with his hand, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparationcommunion|title', 'text' : 'THE PREPARATION FOR HOLY COMMUNION'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|litanylordsprayer|title', 'text' : 'LITANY OF THE LORD'S PRAYER'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|litanylords', 'text' : 'The Deacon comes out and stands in his usual place.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|holycommunion|title', 'text' : 'HOLY COMMUNION OF THE CLERGY AND PEOPLE'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|bowcommunion', 'text' : 'Then the Priest, and the Deacon, in his usual place, bow three times, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|holyforholy', 'text' : 'The Priest elevates the Holy Bread and says aloud:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|communionhymn', 'text' : 'The Singers continue with the Communion Chant.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|communionhymnsunday', 'text' : 'On Sundays:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|alleluia', 'text' : 'Alleluia, Alleluia, Alleluia.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|communionhymnfullattribution', 'text' : '(Psalm 150:1)'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|communionhymnotherdays', 'text' : 'On other days as appointed in the Typikon.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|crossorarion', 'text' : 'The Deacon enters the Sanctuary, ties his orarion in the form of a Cross and standing on the right of the Priest says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|breakbread', 'text' : 'The Priest divides the Lamb into four parts, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|placecrosswise', 'text' : 'He arranges them on the Paten in the form of a Cross, thus:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|fillchalice', 'text' : 'The Deacon points to the Chalice with his Orarion and says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|ic', 'text' : 'The Priest takes the portion of the Lamb stamped with the letters IC and makes the sign of the Cross with it above the holy Chalice and places it in it, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|pliroma', 'text' : 'Fullness of the Holy Spirit.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|takezeon', 'text' : 'He takes the hot water and says to the Priest:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|blesszeon', 'text' : 'The Priest blesses it, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|pourzeon', 'text' : 'The *Deacon pours the hot water into the Chalice in the form of a cross, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|zesis', 'text' : 'Fervour of the Holy Spirit. Amen.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|seepage', 'text' : 'For the Prayers before Communion, see page'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|approachbody', 'text' : 'The Priest asks the forgiveness of those in the Sanctuary and the rest of the church. Then he approaches the Holy Table and says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|xc', 'text' : 'He takes a portion of the precious Body of Christ, from the part stamped with the letters XC, and says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|wipehand', 'text' : 'And he receives the Holy Bread with fear and great care; and having wiped his hand over the Paten with the sponge he says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|deaconcommune', 'text' : 'Deacon, draw near.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|deaconcommune', 'text' : 'The Deacon, as he approaches, says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|deaconcommune2', 'text' : 'The Priest gives the Deacon a portion of the Holy Bread from the part stamped with XC and says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|deaconcommune3', 'text' : 'The Deacon kisses the Priest’s hand, goes to the back of the Holy Table, and communicates like the Priest.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|chaliceandcloth', 'text' : 'Then the Priest takes the Chalice, with the Communion cloth, and says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|mylips', 'text' : 'This has touched my lips: it will take away my iniquities and cleanse my sins.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|drinkthrice', 'text' : 'He drinks three times from the Chalice, wipes his lips and the Chalice with the cloth, and kisses the Chalice, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|deaconcommune4', 'text' : 'Then he says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|deaconcommune2', 'text' : 'Deacon, again draw near.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|deaconcommune5', 'text' : 'The Deacon, having carefully wiped his hand over the Paten with the Sponge, approaches, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|approachagain', 'text' : 'Behold, again I draw near to Christ, our immortal King and God.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|etimetadidotai', 'text' : 'To you, most devout Deacon [and Monk] N is granted communion in the precious and all-holy Blood of our Lord and God and Saviour, Jesus Christ, for the forgiveness of your sins and for eternal life.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|deaconcommune6', 'text' : 'Then he says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|nika', 'text' : 'The *Deacon divides the two remaining parts of the Lamb (NI and KA) into small pieces and places them in the Chalice, which he covers with the Communion cloth and lays the Spoon on top.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|distribution|title', 'text' : 'DISTRIBUTION OF HOLY COMMUNION'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|approach', 'text' : 'The Holy Doors are opened and the Priest hands the Chalice to the *Deacon, who comes out through the Holy Doors, holding the Chalice, and says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|distributionprayer', 'text' : 'The Deacon hands the Chalice to the Priest, who gives Communion to the People, saying to each communicant:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|distributionprayershort', 'text' : 'The Body and Blood of Christ, for the forgiveness of sins and everlasting life.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|toudeipnou', 'text' : 'While Communion is being given the following is sung, as many times as is necessary for the number of communicants:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|paschalcommunion', 'text' : 'During Eastertide (in some places, always):'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|replacechalice', 'text' : 'When all have communicated, the Priest hands the Chalice to the Deacon, who places it on the holy Table again.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|blesshand', 'text' : 'The Priest blesses the People with his hand, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|iflordsfeast', 'text' : 'On feasts of the Lord and their leave-taking the Apolytikion of the Feast is sung;'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|paschal', 'text' : 'during Eastertide Christ has risen from the dead...'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|wipeparticles', 'text' : 'Meanwhile the *Deacon holding the Paten above the Chalice carefully wipes the particles remaining on the Paten into the Chalice.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|exaltmaster', 'text' : 'The Deacon says to the Priest:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|censeexalt', 'text' : 'The Priest censes the Chalice three times, saying each time:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|showcoversstar', 'text' : 'Then he gives the Paten, with the covers and the Star, to the Deacon, who shows them to the People and then takes them to the table of the Prothesis, going round behind the Holy Table. He then unties his orarion.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|blessed', 'text' : 'The Priest bows, takes the Chalice and says in a low voice:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|blessed2', 'text' : 'and then turns to the People, shows them the Chalice and continues, aloud:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|thanksdismissal|title', 'text' : 'THANKSGIVING AND DISMISSAL'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|foldantimension', 'text' : 'The Priest places the Chalice on the Prothesis, returns, and folds up the Antimension, after making sure that no crumb remains.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|havingpartaken', 'text' : 'The *Deacon comes out through the Holy Doors, goes to his usual place and says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|crossantimensiongospel', 'text' : 'Taking the holy Gospel, he makes the sign of the Cross with it over the folded Antimension and says aloud:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|ambonprayer', 'text' : 'The Priest comes out through the Holy Doors and reads aloud:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|ambonprayer|title', 'text' : 'PRAYER BEHIND THE AMBO'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|pliromanomou', 'text' : 'The Priest returns to the Sanctuary through the Holy Doors, goes to the table of the Prothesis and says, in a low voice:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|evlogiakyriou', 'text' : 'The Priest, coming out through the Holy Doors and blessing the People, says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|dis|oanastas', 'text' : 'May'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|sundaydismissal', 'text' : '(on Sundays: he who rose from the dead,)'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|dis|fathersmothers', 'text' : 'of our venerable and God-bearing Fathers and Mothers,'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|dis|ofsaint', 'text' : 'of Saint N.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|dis|oftemple', 'text' : '(of the Church),'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|dis|chrysostom', 'text' : 'of our Father among the Saints John Chrysostom, Archbishop of Constantinople,'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|dis|memory', 'text' : 'whose memory we keep today,'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|finalblessing', 'text' : 'The Priest, blessing the People, says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|giveantidoron', 'text' : 'The Priest distributes the Antidoron, saying to each recipient:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|blessingmercy', 'text' : 'May the blessing and mercy of the Lord come upon you.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|end|title', 'text' : 'THE END OF THE DIVINE LITURGY OF JOHN CHRYSOSTOM'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|prepcommunion|title', 'text' : 'PRAYERS BEFORE HOLY COMMUNION'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|beforeapproach', 'text' : 'As you go to receive Communion say the following verses to yourself:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|vadizou', 'text' : 'See, to divine Communion I approach; My Maker, burn me not as I partake, For you are fire consuming the unworthy, But rather cleanse me now of every stain.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|eita', 'text' : 'Then the following Troparion:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|andtheverses', 'text' : 'Then again the following verses:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|andtroparia', 'text' : 'And the following Troparia:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|ofkosmas', 'text' : 'By St Cosmas the Melodist.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|followingprayer', 'text' : 'Then the following prayer:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|andagain', 'text' : 'And again:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|completeentrance', 'text' : 'Then the Deacon, followed by the Priest, enters the Sanctuary through the Holy Doors and places the Gospel on the Holy Table.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|entrancechant', 'text' : 'The People sing the Entrance Chant as follows:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|kissofpeace2', 'text' : 'to which the junior answers:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|blesschalice', 'text' : 'The Priest blesses the Chalice, saying:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|blessboth', 'text' : 'Then he, pointing to them both, says:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|lordsname', 'text' : 'In the name of the Lord.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|thankgsiving|title', 'text' : 'THANKSGIVING AFTER HOLY COMMUNION'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|admonition', 'text' : 'Verses of Admonition.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|havingreceived', 'text' : 'Whenever you have had Communion Of the life-giving and transcendent gifts, At once give praise and offer heartfelt thanks, And from your soul say fervently to God: Glory to you, O God. Glory to you, O God. Glory to you, O God.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|thanksgivingprayers', 'text' : 'And immediately the prayers of thanksgiving.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|anonymous', 'text' : 'Anonymous.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|thanksivingprayer1', 'text' : 'I thank you, Lord, my God, because you have not rejected me a sinner, but have counted me worthy to be a communicant of your Holy Things. I thank you, because you have counted me, the unworthy, worthy to share in your most pure and heavenly gifts. But, Master, Lover of mankind, who died for our sake and rose again, and gave us these your awe-inspiring and life-giving Mysteries, for the well-being and hallowing of our souls and bodies, grant that these gifts may bring me also healing of soul and body, the repelling of every adversary, the enlightenment of the eyes of my heart, peace of my spiritual powers, faith unashamed, love without pretence, fullness of wisdom, the keeping of your commandments, increase of your divine grace and the gaining of your Kingdom; that preserved through them by your sanctification, I may always remember your grace, and no longer live for myself but for you, our Master and Benefactor. And so, when I leave this present life in the hope of life eternal, I shall find everlasting repose where the sound of those who feast is unceasing, and the delight of those who see the ineffable beauty of your face is unbounded. For you are the true desire and the inexpressible joy of those who love you, Christ our God, and all creation hymns you to the ages. Amen.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|basilgreat', 'text' : 'By Saint Basil the Great.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|thanksgivingprayer2', 'text' : 'Master, Christ God, King of the ages, and Creator of all things, I thank you for all the good things you have given me, and for Communion in your most pure and life-giving mysteries Therefore I pray you, O Good One, Lover of mankind: guard me under your protection and in the shadow of your wings; and grant that until my last breath I may share worthily and with a pure conscience in your holy things for forgiveness of sins and everlasting life. For you are the Bread of life, the source of sanctification, the giver of blessings; and to you we give glory, with the Father and the Holy Spirit, now and for ever, and to the ages of ages. Amen.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|symeonmetaphrastes', 'text' : 'By Symeon Metaphrastes.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|thanksgivingprayer3', 'text' : 'You who willingly give me your flesh for food, Who are a fire consuming the unworthy; Do not burn me up, my Maker; But penetrate the structure of my limbs, All my joints, my inner parts, my heart. Burn up the thorns of all my offences, Purify my soul and sanctify my mind. Strengthen my knees, together with my bones; Enlighten the five-fold simpleness of my senses; Nail down the whole of me with fear of you. Always protect, guard and keep me From every soul-destroying deed and word. Hallow me, purify me, bring me to harmony, And give me beauty, understanding, light; Show me to be your dwelling, the Spirit’s house alone, And no more the dwelling place of sin; That, by the entrance of Communion, Every evil-doer, every passion May flee from me, your house, as from a fire. As intercessors I bring you all the Saints, The companies of the Bodiless Hosts, Your Forerunner, the wise Apostles, And with them your most pure and holy Mother; Accept their prayers, O my compassionate Christ, And make your servant a child of light. For you alone are the hallowing of our souls, O Good One, and their brightness, And fittingly to you, as to our God and Master, We all give praise and glory every day.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|thanksgivingprayer4', 'text' : 'May your holy Body, Lord Jesus Christ, our God, bring me eternal life, and your precious Blood forgiveness of sins. May this Eucharist bring me joy, health and gladness; and at your dread Second Coming make me, a sinner, worthy to stand at the right hand of your glory, at the prayers of your all-pure Mother and of all your Saints. Amen.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|thanksgivingtheotokos', 'text' : 'To the Most Holy Mother of God.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|thanksgivingprayer5', 'text' : 'All-holy Lady, Mother of God, the light of my darkened soul, my hope, protection, refuge, comfort, joy, I thank you, because you have made me, the unworthy, worthy to become a partaker in the most pure Body and precious Blood of your Son. But, O you who gave birth to the true Light, enlighten the spiritual eyes of my heart; you who bore the source of immortality, give life to me, who have been slain by sin; you the compassionate Mother of the merciful God, have mercy on me and give me compunction and contrition in my heart, and humility in my ideas, and release from the imprisonment of my thoughts. And count me worthy, until my last breath, to receive without condemnation the hallowing of the most pure Mysteries, for healing of soul and body; and grant me tears of repentance and thanksgiving, to praise and glorify you all the days of my life.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|thanksgivingprayer5b', 'text' : 'For you are blessed and glorified to the ages. Amen.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|songofsymeon', 'text' : 'Then the Song of Symeon.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|trisagionetc', 'text' : 'Trisagion etc.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|apolytikionchrysostom', 'text' : 'Apolytikion of Saint John Chrysostom.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|apolytikionchrysostom', 'text' : 'The grace which shone from your mouth like a torch of flame enlightened the whole earth; it laid up for the world the treasures of freedom from avarice; it showed us the height of humility. But as you train us by your words, Father John Chrysostom, intercede with Christ God, the Word, that our souls may be saved.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|kontakionchrysostom', 'text' : 'Kontakion of Saint John Chrysostom.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|kontakionchrysostom', 'text' : 'You received divine grace from heaven, and through your lips you teach us all to worship one God in Trinity, venerable John Chrysostom, wholly blessed. Fittingly we praise you, for you are a teacher who makes clear things divine.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|theotokion', 'text' : 'Theotokion.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|theotokion', 'text' : 'At the prayers of all your Saints and of the Mother of God, grant us your peace, O Lord, and have mercy on us, for you alone are compassionate.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|uliyewathamani', 'text' : 'Greater in honour than the Cherubim, and beyond compare more glorious than the Seraphim, without corruption you gave birth to God the Word: truly the Mother of God, we magnify you.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|anddismissal', 'text' : 'And Dismissal.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|apolytikia|title', 'text' : 'APOLYTIKIA OF THE RESURRECTION'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|intones|title', 'text' : 'IN THE EIGHT MODES'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|apolytikiontone1', 'text' : 'When the stone had been sealed by the Jews, and while soldiers were guarding your most pure Body, you rose, O Saviour, on the third day, giving life to the world; therefore the heavenly Powers cried out to you, Giver of life: Glory to your Resurrection, O Christ! Glory to your Kingdom! Glory to your dispensation, only lover of mankind!'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|apolytikiontone2', 'text' : 'When you went down to death, O immortal life, then you slew Hades with the lightning flash of your Godhead; but when from the depths below the earth you raised the dead, all the Powers beyond the heavens cried out: Giver of life, Christ our God, glory to you!'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|apolytikiontone3', 'text' : 'Let everything in heaven rejoice, let everything on earth be glad, for the Lord has shown strength with his arm; by death he has trampled on death; he has become the first-born from the dead; from the bowels of Hades he has delivered us, and granted to the world his great mercy.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|apolytikiontone4', 'text' : 'When the women Disciples of the Lord had learnt from the Angel the joyful message of the Resurrection, casting away the ancestral condemnation, triumphantly they said to the Apostles: Death has been despoiled, Christ God has been raised, granting the world his great mercy.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|apolytikiontone5', 'text' : 'The Word without beginning with Father and with Spirit, born from a Virgin for our salvation, let us believers praise and let us worship him; for he was well pleased to ascend the Cross in the flesh and undergo death, and to raise those who had died, by his glorious Resurrection.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|apolytikiontone6', 'text' : 'Angelic Powers were at your grave, and those who guarded it became as dead, and Mary stood by the tomb, seeking your most pure Body. You despoiled Hades and emerged unscathed; you met the Virgin and granted life. Lord, risen from the dead, glory to you!'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|apolytikiontone7', 'text' : 'You abolished death by your Cross, you opened Paradise to the Thief, you transformed the Myrrhbearers’ lament, and ordered your Apostles to proclaim that you had risen, O Christ God, granting the world your great mercy.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|apolytikiontone8', 'text' : 'You came down from above, O Compassionate, you accepted burial for three days, that you might free us from the passions. Our life and resurrection, Lord, glory to you!'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|apolytikiafeasts|title', 'text' : 'APOLYTIKIA FOR THE GREAT FEASTS'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|nativitytheotokosapolytikion', 'text' : 'September 8th. The Nativity of the Mother of God, and until the Close on the 12th.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|nativitytheotokos|apolytikion', 'text' : 'Your nativity, O Mother of God, brought joy to the whole inhabited world, for from you there dawned the Sun of righteousness, Christ our God. He abolished the curse and gave the blessing; and by making death of no effect he bestowed on us eternal life.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|exaltationcrossapolytikion', 'text' : 'September 14th. The Universal Exaltation of the Precious Cross, and until the Close on the 21st.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|exaltationcross|apolytikion', 'text' : 'Lord, save your people and bless your inheritance, granting to faithful Christians victories over their enemies, and protecting your commonwealth by your Cross.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|entrytheotokosapolytikion', 'text' : 'November 21st. The Entry of the Mother of God into the Temple, and until the Close on the 25th.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|entrytheotokos|apolytikion', 'text' : 'Today is the prelude of the good pleasure of God, and the proclaiming of the salvation of mankind. In the Temple of God the Virgin is revealed, and beforehand she announces Christ to all. To her then let us cry aloud with mighty voice: Hail, the fulfilment of the Creator’s dispensation!'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|forefathersapolytikion', 'text' : 'The Sunday of the holy Forefathers (December 11th–17th). Resurrection Apolytikion and of the Forebears.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|forefathers|apolytikion', 'text' : 'You justified the Forefathers by faith, through them betrothing in advance the Church from the nations. Let the Saints exult in glory, for from their seed there is a glorious fruit, she who bore you without seed. At their intercessions, O Christ God, save our souls.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|beforenativityapolytikion', 'text' : 'The Sunday before Christ’s Nativity (December 18th–24th). Resurrection Apolytikion and of the Forefathers.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|beforenativity|apolytikion', 'text' : 'Great are the achievements of faith! In the fountain of flame, as by water of rest, the three holy Youths rejoiced; and the Prophet Daniel was revealed shepherding lions like sheep. At their intercessions, Christ God, save our souls.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|nativitychristapolytikion', 'text' : 'December 25th. The Nativity according to the flesh of our Lord and God and Saviour, Jesus Christ, and until the Close on the 31st.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|nativitychrist|apolytikion', 'text' : 'Your Nativity, O Christ, our God, has made the light of knowledge dawn on the world; for through it those who adored the stars were taught by a star to worship you, the Sun of righteousness, and to know you, the Dawn from above. Lord, glory to you.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|theophanyapolytikion', 'text' : 'January 6th. The holy Theophany of our Lord, Jesus Christ, and until the Close on the 14th.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|theophany|apolytikion', 'text' : 'As you were baptized in the Jordan, Lord, the worship of the Trinity was made manifest: for the voice of the Father bore witness to you, naming you the Beloved Son; and the Spirit, in the form of a dove, confirmed the sureness of the word. Christ God, who appeared and enlightened the world, glory to you.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|meetinglordapolytikion', 'text' : 'February 2nd. The Meeting of the Lord, and until the Close.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|meetinglord|apolytikion', 'text' : 'Hail, full of grace, Virgin Mother of God, for from you there dawned the Sun of righteousness, Christ our God, who enlightens those in darkness. Be glad too, righteous Elder, for you received in your embrace the Liberator of our souls, who grants us also resurrection.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|annunciationapolytikion', 'text' : 'March 25th. The Annunciation of the Mother of God.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|annunciation|apolytikion', 'text' : 'Today is the crowning moment of our salvation, and the unfolding of the eternal mystery: the Son of God becomes the Son of the Virgin, and Gabriel brings the good tidings of grace. Therefore with him let us also cry aloud to the Mother of God: Hail, full of grace! The Lord is with you.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|transfigurationapolytikion', 'text' : 'August 6th. The Transfiguration of our Saviour, Jesus Christ, and until the Close on the 13th.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|transfiguration|apolytikion', 'text' : 'You were transfigured on the mountain, O Christ God, showing your Disciples your glory, as far as they could bear it. At the prayers of the Mother of God make your everlasting light shine also on us sinners. Giver of light, glory to you.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|dormitionapolytikion', 'text' : 'August 15th. The Dormition of the Mother of God, and until the Close on the 23rd (or the 28th).'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|dormition|apolytikion', 'text' : 'In giving birth you retained your virginity; in falling asleep you did not abandon the world, O Mother of God; you passed over into life, for you are the Mother of Life; and by your prayers you deliver our souls from death.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|apolytikiatriodionpentecostarion|title', 'text' : 'APOLYTIKIA FROM THE TRIODION AND PENTECOSTARION'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|lent1apolytikion', 'text' : 'On the 1st Sunday of Lent, the Sunday of Orthodoxy.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|lent1|apolytikion', 'text' : 'We venerate your most pure icon, loving Lord, as we ask pardon of our offences, Christ God. For by your own choice you were well-pleased to ascend the Cross in the flesh, to deliver from the slavery of the enemy those whom you had fashioned; therefore with thanksgiving we cry to you: You have filled all things with joy, our Saviour, by coming to save the world.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|lent2apolytikion', 'text' : 'On the 2nd Sunday of Lent, of St Gregory Palamas.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|lent2|apolytikion', 'text' : 'Orthodoxy’s beacon, support and teacher of the Church, fair glory of monastics, invincible champion of theologians, Wonderworker Gregory, the boast of Thessalonika and preacher of grace, intercede without ceasing that our souls may be saved.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|lent3apolytikion', 'text' : 'On the 3rd Sunday of Lent, of the Veneration of the Cross.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|lent4apolytikion', 'text' : 'On the 4th Sunday of Lent, of St John of the Ladder.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|lent4|apolytikion', 'text' : 'With the streams of your tears you cultivated the barren desert, and with deep sighings from the heart you made your toils bring forth fruit a hundredfold, and you became a beacon, shining in all the world by your wonders, our venerable Father John; intercede with Christ God that our souls may be saved.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|lent5|apolytikion', 'text' : 'In you, Mother, was preserved unimpaired that which is according to God’s image; for you took up the Cross and followed Christ, and by your deeds you taught us to despise the flesh, for it passes away, but to care for the soul, which is a thing immortal. And therefore your spirit, holy Mary, rejoices with the Angels.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|lazarusapolytikion', 'text' : 'On Lazarus Saturday and Palm Sunday.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|lazarus|apolytikion', 'text' : 'Assuring us before your Passion of the general resurrection, you raised Lazarus from the dead, O Christ God: therefore, like the Children, we also carry tokens of victory, and we cry to you, the Conqueror of death: Hosanna in the highest! Blessed is he who comes in the name of the Lord.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|palmapolytikion', 'text' : 'Another, for Palm Sunday only.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|palm|apolytikion', 'text' : 'Buried with you through Baptism, Christ our God, we have been granted immortal life by your Resurrection, and we sing your praises, as we cry: Hosanna in the highest! Blessed is he who comes in the name of the Lord.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|paschaapolytikion', 'text' : 'On the Holy and Great Sunday of Pascha.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|pascha|apolytikion', 'text' : 'Christ has risen from the dead, by death he has trampled on death and to those in the graves he has given life.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|thomasapolytikion', 'text' : 'On the Sunday of the Holy Apostle Thomas.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|thomas|apolytikion', 'text' : 'While the grave was sealed, Christ God, you dawned as life from the tomb; and while the doors were shut, you came, the resurrection of all, to your Disciples, through them renewing a right spirit in us, according to your great mercy.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|myrrhbearersapolytikion', 'text' : 'On the Sunday of the Myrrhbearers.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|myrrhbearers|apolytikion', 'text' : 'The noble Joseph, taking down your most pure Body from the Tree, wrapped it in a clean shroud with sweet spices and laid it for burial in a new grave. But on the third day you arose, O Lord, granting the world your great mercy.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|sametone', 'text' : 'The same Mode.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|myrrhbearers2|apolytikion', 'text' : 'The Angel standing by the grave cried to the women bearing myrrh: Myrrh is fitting for the dead, but Christ has shown himself a stranger to corruption. But cry aloud: The Lord has risen, granting the world his great mercy.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|midpentecostapolytikion', 'text' : 'On the Wednesday of Mid-Pentecost, and until the Leave-taking.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|midpentecost|apolytikion', 'text' : 'At the mid-point of the Feast, O Saviour, water my thirsty soul with streams of true devotion; for you cried out to all: Any who thirst, let them come to me, and let them drink! O Source of life, Christ our God, glory to you!'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|ascensionapolytikion', 'text' : 'On the Ascension of our Lord, and until the Leave-taking.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|ascension|apolytikion', 'text' : 'You were taken up in glory, Christ our God, giving joy to your Disciples by the promise of the Holy Spirit, when through the blessing they had been assured that you are the Son of God, the Redeemer of the world.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|holyfathersapolytikion', 'text' : 'On the Sunday of the Holy Fathers.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|holyfathers|apolytikion', 'text' : 'You are glorified above all, Christ, our God, who established our Fathers as beacons on the earth, and through them guided us all to the true faith. Greatly compassionate Lord, glory to you!'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|pentecostapolytikion', 'text' : 'On the Sunday of Pentecost, and until the Leave-taking.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|pentecost|apolytikion', 'text' : 'Blessed are you, Christ our God, who proclaimed the fishermen to be most wise by sending down to them the Holy Spirit, and so through them catching the whole world in a net. Lover of mankind, glory to you!'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|allsaintsapolytikion', 'text' : 'On the Sunday of All Saints.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|allsaints|apolytikion', 'text' : 'Clothed as in purple and fine linen with the blood of your Martyrs throughout the world, your Church cries out to you through them, Christ God: Send down your pity on your people; grant peace to your commonwealth, and to our souls your great mercy.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|kontakia|title', 'text' : 'KONTAKIA FOR THE SEASONS OF THE YEAR'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|sept1kontakion', 'text' : 'September 1st. Beginning of the Indiction.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|melody|cross', 'text' : 'Lifted up on the Cross.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|sept1|kontakion', 'text' : 'Maker and Master of the ages, God of all creation, truly beyond being, bless the circle of the year, and in your infinite mercy, compassionate Lord, save all who worship you, the only Master, and who cry in fear, O Redeemer: Grant to all a year of prosperity.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|sept7kontakion', 'text' : 'September 7th. Forefeast of the Nativity of the Mother of God.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|melody|virgin', 'text' : 'Today the Virgin.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|sept7|kontakion', 'text' : 'Today the Virgin and Mother of God, Mary, the untouched bridal chamber of the heavenly Bridegroom, is being brought to birth from a barren womb by God’s counsel, to be made ready as the chariot of the Word of God; for to this she was predestined, the gate of God and Mother of true life.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|sept8kontakion', 'text' : 'September 8th. The Nativity of the Mother of God, and until the Leave-taking on the 12th.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|sept8|kontakion', 'text' : 'Joachim and Anna were set free from the reproach of childlessness, and Adam and Eve from the corruption of death, by your holy nativity, O Most Pure. Delivered from the guilt of offences, your people also celebrate the feast as they cry to you: The barren woman bears the Mother of God, the sustainer of our life.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|sept13kontakion', 'text' : 'September 13th. Dedication of the church of the Resurrection.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|melody|appeared', 'text' : 'Today you have appeared.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|sept13|kontakion', 'text' : 'The Church has been declared a heaven filled with light, which guides all the faithful to the light; standing in it we cry: Establish this house, O Lord.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|sept14kontakion', 'text' : 'September 14th. The Exaltation of the Precious Cross, and until the Leave-taking on the 21st.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|sept14|kontakion', 'text' : 'Lifted up on the Cross of your own will, to the new commonwealth that bears your name grant your mercies, O Christ God; make your faithful people glad by your power, granting them victories over their enemies; may they have your help in battle: a weapon of peace, an invincible trophy.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|exaltationdismissalkontakion', 'text' : 'From the Leave-taking of the Cross until November 7th. (Except in churches dedicated to the Mother of God, which should use the appropriate Kontakion.)'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|exaltationdismissal|kontakion', 'text' : 'Protection of Christians that cannot be put to shame, unfailing mediation with the Maker, do not despise the voices of us sinners as we pray; but, in your love, be quick to help us who cry to you with faith: Hasten to intercede, make speed to entreat, O Mother of God, for you ever protect those who honour you.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|nov8kontakion', 'text' : 'From November 8th until the Leave-taking of the Entry on the 25th.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|nov8|kontakion', 'text' : 'The most pure Temple of the Saviour, the precious Bridal Chamber and Virgin, the sacred Treasury of the glory of God, is being brought today into the house of the Lord; and with her she brings the grace of the divine Spirit; of her God’s Angels sing in praise. She is indeed the heavenly Tabernacle.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|nov20kontakion', 'text' : 'November 20th. Forefeast of the Entry of the Mother of God.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|nov20|kontakion', 'text' : 'Today the whole world has been filled with joy, at the glorious festival of the Mother of God, as it cries, ‘She is the heavenly Tabernacle’.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|entrancedismissalkontakion', 'text' : 'From the Leave-taking of the Entry until December 24th.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|entrancedismissal|kontakion', 'text' : 'Today the Virgin comes to the cave, to give birth ineffably to the eternal Word. Hearing this, dance, O inhabited world! Glorify, with Angels and with Shepherds, him who willed to be made manifest a little Child, God before the ages.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|conceptionannekontakion', 'text' : 'December 9th. The Conception of the Mother of God by St Anne.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|conceptionanne|kontakion', 'text' : 'Today the inhabited world celebrates Anne’s conceiving, which took place through God; for she bore in her womb the one who above reason bore the Word.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|christmaskontakion', 'text' : 'December 25th. The Nativity of our Lord and God and Saviour, Jesus Christ, and until the Leave-taking on December 31st.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|christmas|kontakion', 'text' : 'Today the Virgin gives birth to him who is above all being, and the earth offers the cave to him whom no one can approach. Angels with Shepherds give glory, while Magi journey with a star, for to us there has been born a little Child, God before the ages.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|circumcisionkontakion', 'text' : 'January 1st. The Circumcision of Our Lord, Jesus Christ and Commemoration of St Basil the Great.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|circumcision|kontakion', 'text' : 'The Lord of all things undergoes circumcision, and in his love cuts off the failings of mortals; today he gives salvation to the world. While in the highest there rejoices the Hierarch of the Creator and bearer of light, Basil, the god-like initiate of Christ.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|jan2kontakion', 'text' : 'From January 2nd until the Eve of Theophany (January 5th).'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|jan2|kontakion', 'text' : 'Today the Lord has come to the streams of Jordan, and cries aloud to John, ‘Do not be afraid to baptize me; for I have come to save Adam, the First-formed’.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|theophanykontakion', 'text' : 'January 6th. The holy Theophany of our Lord, and until the Leave-taking on the 14th.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|theophany|kontakion', 'text' : 'Today you have appeared to the inhabited world, and your light, O Lord, has been signed upon us, who with knowledge sing your praise. You have come, you have appeared, the unapproachable Light.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|feb1kontakion', 'text' : 'On February 1st, the Forefeast of the Meeting.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|feb1|kontakion', 'text' : 'Today open wide your hearts, all you believers, and receive with mind made pure the Lord who comes to dwell in them, as before the feast you sing aloud his praise.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|dismissaltheophanykontakion', 'text' : 'From the Close of Theophany until the Leave-taking of the Meeting.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|dismissaltheophany|kontakion', 'text' : 'You sanctified a virgin womb by your birth, and fittingly blessed Symeon’s hands; you have come now too and saved us, O Christ God. But give peace to your commonwealth in times of war, and strengthen its Rulers, whose friend you are, for you alone love mankind.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|dismissalmeetingkontakion', 'text' : 'From the Close of the Meeting to the beginning of the Triodion. (Except in churches dedicated to the Mother of God, which should use the appropriate Kontakion.)'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|publicanphariseekontakion', 'text' : 'On the Sunday of the Tax-collector and the Pharisee.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|publicanpharisee|kontakion', 'text' : 'Let us flee the proud speech of the Pharisee; and let us learn the humility of the Tax-collector, as with groans we cry to the Saviour: Be merciful to us, for you alone are ready to forgive.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|prodigalkontakion', 'text' : 'On the Sunday of the Prodigal Son.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|prodigal|kontakion', 'text' : 'I have foolishly run away, O Father, from your glory; I have squandered in evil deeds the riches you entrusted to me; therefore I cry to you in the words of the Prodigal: I have sinned before you, compassionate Father: take me now repentant and make me as one of your hired servants.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|carnivalsaturdaykontakion', 'text' : 'On the Saturday of Carnival (of the Departed).'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|carnivalsaturday|kontakion', 'text' : 'With the Saints give rest, O Christ, to the souls of your servants where there is neither toil nor grief nor sighing, but life everlasting.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|carnivalkontakion', 'text' : 'On Carnival Sunday.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|carnival|kontakion', 'text' : 'When you come upon the earth, O God, in glory, and the whole universe trembles, while a river of fire flows before the seat of judgement, and books are opened and all secrets are disclosed, then deliver me from the unquenchable fire, and count me worthy to stand at your right hand, O Judge most just.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|cheesefarekontakion', 'text' : 'On Cheese Sunday.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|cheesefare|kontakion', 'text' : 'O Master, Guide to wisdom, Giver of prudent counsel, Instructor of the foolish and Champion of the poor, make firm my heart, and give it understanding. Word of the Father, give me a word: for see, I shall not stop my lips from crying out to you: In your mercy, have mercy on me who have fallen!'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|lenttheotokoskontakion', 'text' : 'From the 1st Sunday of the Fast, until the Saturday of the Akathist.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|lenttheotokos|kontakion', 'text' : 'To you, my Champion and Commander, I your City, * saved from disasters, dedicate, O Mother of God, * hymns of victory and thanksgiving; * but as you have unassailable might, * from every kind of danger now deliver me, * that I may cry to you, ‘Hail, Bride without bridegroom!’'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|lenttheotokoskontakion2', 'text' : 'On the 5th Sunday of the Fast, if it falls after the Annunciation. (Except in churches dedicated to the Mother of God, which should use the appropriate Kontakion.)'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|march24kontakion', 'text' : 'On March 24th, the Eve of the Annunciation.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|march24|kontakion', 'text' : 'By the coming down of the all-holy Spirit of the Father through the voice of the Archangel you conceived the One who shares the Father’s throne and substance, O Mother of God, the recalling of Adam.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|annunciationkontakion', 'text' : 'On March 25th the Annunciation of the Mother of God.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|lazaruskontakion', 'text' : 'On the Saturday of the holy and righteous Lazarus.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|melody|above', 'text' : 'Seeking things above.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|lazarus|kontakion', 'text' : 'Christ, the joy of all, the truth, the light, the life, the resurrection of the world, in his goodness has appeared to those on earth, and has himself become the pattern of the resurrection, granting to all divine forgiveness.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|palmkontakion', 'text' : 'On Palm Sunday.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|palm|kontakion', 'text' : 'Mounted on the throne in heaven, O Christ God, and on the colt on earth, you accepted the praise of the Angels and the hymn of the Children, who cried to you, ‘Blessed are you, who come to call back Adam’.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|paschakontakion', 'text' : 'On the holy and great Sunday of Pascha, and until the Close, and on Thomas Sunday.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|pascha|kontakion', 'text' : 'Though you descended into the tomb, O Immortal, yet you destroyed the power of Hades; and you arose as victor, O Christ God, calling to the Myrrh-bearing women, ‘Rejoice!’ and giving peace to your Apostles, O you who grant resurrection to the fallen.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|thomaskontakion', 'text' : 'During the rest of Thomas Week.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|thomas|kontakion', 'text' : 'With his meddling right hand Thomas explored your life- giving side, Christ God; for, the doors being shut when you entered, he cried out to you with the rest of the Apostles, ‘You are my Lord and my God’.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|midpentecostkontakion', 'text' : 'On the Wednesday of Mid-Pentecost and until the Leave- taking.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|midpentecost|kontakion', 'text' : 'At the mid-point of the feast according to the Law, Maker of all things and Master, you said to those who were present, O Christ God, ‘Come, and draw the water of immortality’. Therefore we fall down before you and with faith we cry: Grant us your mercies, for you are the source of our life.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|ascensionkontakion', 'text' : 'On the Thursday of the Ascension, and until the Leave-taking.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|ascension|kontakion', 'text' : 'When you had fulfilled your dispensation for us, and united things on earth with things in heaven, you were taken up in glory, Christ our God; in no way divided, but remaining inseparable, you cried to those who loved you, ‘I am with you, and there is no one against you’.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|pentecostkontakion', 'text' : 'On the Sunday of Pentecost, and until the Leave-taking.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|pentecost|kontakion', 'text' : 'When the Most High came down and confused the tongues, he parted the nations. When he divided out the tongues of fire, he called all to unity; and with one voice we glorify the All-holy Spirit.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|allsaintskontakion', 'text' : 'On the Sunday of All Saints.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|allsaints|kontakion', 'text' : 'As first-fruits of nature, Lord, creation’s Planter, the world offers you, the god-bearing Martyrs; at their intercessions preserve your Church in profound peace, through the Mother of God, O most merciful.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|july2kontakion', 'text' : 'On July 2nd, the Deposition of the precious Robe of our most holy Lady the Mother of God in Blachernae.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|july2|kontakion', 'text' : 'O Pure one, full of God’s grace, you have given your sacred Robe as a rampart of incorruption to all the faithful; with it you covered your sacred body, O divine protection of mankind. We celebrate its deposition with love, and with shouts we faithfully cry aloud, ‘Hail Virgin, boast of Christians!’'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|july25kontakion', 'text' : 'On July 25th, the Dormition of Saint Anne, mother of the Mother of God.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|july25|kontakion', 'text' : 'Let us celebrate the memory of the grandparents of Christ as with faith we ask their help that all those who cry, ’O God be with us, who have glorified them as you were well-pleased’ may be delivered from every trouble.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|july27kontakion', 'text' : 'From July 27th to the Close of the Transfiguration on August 13th.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|july27|kontakion', 'text' : 'You were transfigured on the mountain, and your Disciples beheld your glory, O Christ God, as far as they were able; that when they saw you crucified they might know that your suffering was voluntary, and might proclaim to the world that you are truly the brightness of the Father.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|aug1kontakion', 'text' : 'On August 1st, the Procession of the life-giving Cross.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|aug5kontakion', 'text' : 'On August 5th, Kontakion of the Forefeast of the Transfiguration of the Lord.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|aug5|kontakion', 'text' : 'In the divine Transfiguration all mortal nature divinely shines forth today, as with gladness it cries: ‘Christ is transfigured, saving all’.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|aug6kontakion', 'text' : 'On August 6th. The Transfiguration of the Lord.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|aug6|kontakion', 'text' : 'You were transfigured on the mountain, and your Disciples beheld your glory, O Christ God, as far as they were able; that when they saw you crucified they might know that your suffering was voluntary, and might proclaim to the world that you are truly the brightness of the Father.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|aug14kontakion', 'text' : 'On August 14th. Forefeast of the Dormition.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|aug14|kontakion', 'text' : 'On your glorious memorial the whole inhabited world, mystically adorned by God’s Spirit, cries out to you with joy: Hail, Virgin, boast of Christians.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|aug15kontakion', 'text' : 'On August 15th, the Dormition of the Mother of God, and until the Close on the 24th (or the 28th).'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|aug15|kontakion', 'text' : 'Nor tomb nor death overpowered the Mother of God, unsleeping in her prayers, unfailing hope in intercession; for as Mother of Life she has been taken over into life by him who dwelt in her ever-virgin womb.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|tilsept12kontakion', 'text' : 'From the Close of the Dormition until September 12th.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|tilsept12|kontakion', 'text' : 'Joachim and Anna were set free from the reproach of childlessness, and Adam and Eve from the corruption of death, by your holy nativity, O Most Pure. Delivered from the guilt of offences, your people also celebrate the feast as they cry to you: The barren woman bears the Mother of God, the sustainer of our life.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|aug31kontakion', 'text' : 'On August 31st. The Deposition of the Cincture of the Mother of God.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|melody|prayers', 'text' : 'Nor tomb nor death.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|aug31|kontakion', 'text' : 'Your honoured cincture, Mother of God, which encircled your womb that received God, is for your City invincible might and an inexhaustible treasury of blessings, ever-virgin who alone gives birth.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|artoclasia|title', 'text' : 'SERVICE OF THE ARTOKLASIA'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|artoclasiavespers|title', 'text' : '1. At Vespers'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|artoclasiapreparation', 'text' : 'When there is an Artoklasia, the loaves with wheat, wine and oil are placed in the centre of the Church; and, while the Chanters sing one of the troparia of the Liti of the Saint whose feast is being celebrated (if the feast has no Liti, the Apolytikion is sung), the Priest and Deacon come from the Sanctuary by the Holy Doors, with lights and incense, and take their stand in the middle of the Church.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|finishtroparion', 'text' : 'When the troparion is finished:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|petition', 'text' : 'Have mercy on us, O God, in accordance with your great mercy, we pray you, hear and have mercy.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|petitionartoclasia', 'text' : 'Also we pray for mercy, life, peace, health, salvation, visitation, pardon and forgiveness of sins of the servants of God, the parishioners, members, wardens, benefactors of this holy church, and of his servants (and he commemorates the names of those who have offered the loaves) who celebrate this holy feast, and who offer these gifts.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|petitionartoclasia2', 'text' : 'Also we pray for the protection of this holy church, this city and every city, town and village from plague, famine, earthquake, flood, fire, sword, invasion by enemies, civil war and sudden death; and that our good God, who loves mankind, will be merciful, kindly and easily entreated, and turn away and dispel all wrath and disease stirred up against us, and deliver us from his just threat that hangs over us, and have mercy on us.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|mercy40a', 'text' : 'While this petition is being said, the Chanters sing'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|mercy40b', 'text' : '40 times (in groups of 10) and again 3 times.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|petition2', 'text' : 'Also we pray that the Lord, our God, will hear the voice of supplication of us sinners, and have mercy on us.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|censeloaves', 'text' : 'Then the Priest takes the censer and censes the loaves in the form of a cross, going round the four sides of the table, the Deacon [or Server] going opposite him with the candle.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|censeloaves2', 'text' : 'The Priest, while censing, chants:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|hailmary', 'text' : 'Virgin Mother of God, hail Mary, full of grace; the Lord is with you; blessed are you among women; and blessed is the fruit of your womb; for you gave birth to the Saviour of our souls.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|artoclasiaprayer', 'text' : 'The Priest takes one of the loaves and makes the sign of the Cross over it and says the following prayer aloud:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|artoclasiaprayer|title', 'text' : 'Prayer of the Breaking of Bread'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|artoclasiaprayer', 'text' : 'Lord, Jesus Christ, our God, who blessed the five loaves in the desert, and from them fed five thousand, bless these loaves also, this wheat, wine and oil, and multiply them in this city and in all your world, and sanctify your faithful servants who partake of them. For it is you who bless and sanctify all things, Christ, our God, and to you we give glory, with your Father who is without beginning, and your all-holy, good and life-giving Spirit, now and for ever, and to the ages of ages.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|kissloaves', 'text' : 'Then the Priest and Deacon, having kissed one of the loaves, re-enter the Sanctuary, chanting:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|repeattwice', 'text' : 'The Chanters repeat this twice.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|artoclasiamatins|title', 'text' : '2. At Matins'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|artoclasiamatins', 'text' : 'When an Artoklasia is celebrated at Matins, the blessing of loaves takes place at the very end of Matins, that is, immediately after the Doxology.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|artoclasialiturgy|title', 'text' : '3. At the end of the Liturgy'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|artoclasialiturgy', 'text' : 'Immediately after the Prayer behind the Ambo the Singers begin the Troparion of the Feast or Saint and the Priest and Deacon come from the Sanctuary as above. At the end, after "The rich have become poor ...," the Singers begin "Blessed be the name of the Lord..." as usual; and the Liturgy ends in the normal way. If there is a Memorial Service for the Departed it takes place immediately after "The rich have become poor...," and is followed by "Blessed be the name of the Lord."'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|artoclasianote|title', 'text' : 'Note'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|artoclasianote', 'text' : 'Although it is the practice in many parishes to hold the Artoklasia at the end of the Liturgy, we strongly recommend that it takes place either at the end of Vespers, or at the end of the Doxology before the Liturgy.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|trisagion|title', 'text' : 'SERVICE OF THE TRISAGION FOR THE DEPARTED'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|evlogitariadeparted|title', 'text' : 'THE EVLOGITARIA FOR THE DEPARTED'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|thefollowingtroparia', 'text' : 'Then the following troparia are sung in the 4th Mode:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|funeraltroparion1', 'text' : 'With the spirits of the righteous made perfect in death give rest, O Saviour, to the soul(s) of your servant(s); keeping it (them) for the life of blessedness with you, O Lover of mankind.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|funeraltroparion2', 'text' : 'In your repose where all your saints find rest, give rest, O Lord, to the soul(s) of your servant(s), for you alone are immortal.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|funeraltheotokion', 'text' : 'O only pure and spotless Virgin, who bore God without seed, intercede for the salvation of the soul(s) of your servant(s).'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|oneperson', 'text' : 'For one person'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|petfuneral2a', 'text' : 'That the Lord our God may establish his/her soul where the righteous rest.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|petfuneral2b', 'text' : 'The mercies of God, the kingdom of heaven and the forgiveness of his/her sins, let us ask of Christ, our immortal King and God.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|manypeople', 'text' : 'For two or more people:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|petfuneral1pl', 'text' : 'Also we pray for the repose of the souls of the servants of God, N. and N., who have fallen asleep, and that they may be pardoned every offence, both voluntary and involuntary.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|petfuneral2apl', 'text' : 'That the Lord our God may establish their souls where the righteous rest.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|petfuneral2bpl', 'text' : 'The mercies of God, the kingdom of heaven and the forgiveness of their sins, let us ask of Christ, our immortal King and God.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|dodismissal', 'text' : 'The Priest gives the Dismissal as follows:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|dis|abrahamisaacjacob', 'text' : 'of the holy and glorious forefathers, Abraham, Isaac and Jacob,'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|dis|friendlazarus', 'text' : 'of the holy and righteous Lazarus, for four days dead, the friend of Christ,'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|dis|restsoul', 'text' : 'establish in the tents of the righteous the soul(s) of his servant(s) who has (have) gone from us, give him/her (them) rest in the bosom of Abraham, and number him/her (them) with the righteous; and have mercy on us and save us, for he is good and loves mankind.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|soulsat', 'text' : 'On the Saturdays for the Departed the petitions in the Litany are as follows:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|petsouls2a', 'text' : 'That the Lord our God may establish their souls where the righteous rest.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|petsouls2b', 'text' : 'The mercies of God, the kingdom of heaven and the forgiveness of their sins, let us ask of Christ, our immortal King and God.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|restasabove', 'text' : 'And the prayer "O God of spirits...," and the rest as above.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|variousprayers|title', 'text' : 'PRAYERS FOR VARIOUS OCCASIONS'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|palmblessing|title', 'text' : 'BLESSING OF PALMS'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|palmprayer', 'text' : 'Lord, our God, who are seated upon the Cherubim, you roused your power and sent your only-begotten Son, our Lord Jesus Christ, to save the world through his Cross, Burial and Resurrection. As he drew near to Jerusalem for his voluntary Passion, the people that sat in darkness and the shadow of death, taking the symbols of victory, boughs of trees and branches of palms, foreshadowed his Resurrection. Keep us yourself, Master, and preserve us, who, following their example, on this day before the Feast carry palms and branches in our hands and, like those crowds and those children, offer you our ‘Hosanna!’, so that with hymns and spiritual songs we may be counted worthy of the life-giving Resurrection on the third day; in Christ Jesus, our Lord, with whom you are blessed, together with your all-holy, good and life-giving Spirit, now and for ever, and to the ages of ages. Amen.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|grapeblessing|title', 'text' : 'BLESSING OF GRAPES'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|aug6', 'text' : 'On August 6th'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|grapeprayer', 'text' : 'Bless, Lord, this new fruit of the vine, which through favourable weather, showers of rain and temperate seasons you have been well pleased to reach this state of perfect ripeness, that it may be for us, who partake of this fruit of the vine, a source of joy, and for those who have offered a gift a source of pardon of sins through the sacred and holy Body and Blood of your Christ, with whom you are blessed together with your all-holy, good and life-giving Spirit, now and for ever and to the ages of ages. Amen.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|kollyvablessing|title', 'text' : 'FOR KOLLYVA'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|forsaint', 'text' : 'In Commemoration of a Saint'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|kollyvaprayer', 'text' : 'O Lord, all-loving King, who brought all things to completion by your word, and ordered the earth to produce fruits of every kind for our enjoyment and nourishment; who showed Daniel and the three Youths to be healthier through seeds and pulses than those who had fed sumptuously in Babylon, bless these seeds, mixed with different fruits, and make holy those who partake of them. For they have been offered by your servants for your glory, and in honour of Saint N., and in memory of those who have been made perfect in death in the Orthodox faith. Grant also, loving Lord, to those who have prepared these things and who celebrate this memorial, all their requests which are for their salvation and the enjoyment of your eternal blessings; at the prayers of our all-pure Lady, the Mother of God and ever-virgin Mary, of Saint N., whose memory we celebrate, and of all your Saints.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|kollyvaprayerb', 'text' : 'For it is you who bless and sanctify all things, Christ our God, and to you we give glory, together with your Father who is without beginning, and your all-holy, good and life-giving Spirit, now and for ever, and to the ages of ages. Amen.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|unfoldantimension', 'text' : 'Then the Priest unfolds the Antimension on the Holy Table.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|eparon', 'text' : 'Master, lift up.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|phanouriousblessing|title', 'text' : 'BLESSING FOR A CAKE FOR ST. PHANOURIOS'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|phanouriosprayer', 'text' : 'Lord Jesus Christ our God, wonderful in your saints, who hear our intercessions and fulfil our requests that are for our good, bless this loaf which has been prepared by your servant N. (your servants N.N.) and is now offered in thanksgiving and glorification for what they have enjoyed from you through the intercession of the holy and glorious newly revealed Martyr and wonderworker Phanourios, and in memory of those who have died in the faith. Give them rest in your Kingdom and preserve us all in health as we do your will in peace and offer you thanks for all your gifts. Make our life peaceful, grant us those requests that are for our salvation, bestowing on us your earthly and heavenly blessings, at the intercessions of our most holy lady, the Mother of God, of the holy, glorious Martyr Phanourios and of all your saints.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|phanouriosprayerb', 'text' : 'For you are our God, and to you we give glory, together with your Father who has no beginning, and your all-holy, good and life-giving Spirit, now and for ever, and to the ages of ages. Amen.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|prayerforgiveness|title', 'text' : 'PRAYER OF FORGIVENESS'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|forgivenessprayer', 'text' : 'Lord Jesus Christ, Son of the living God, Shepherd and Lamb, who takes away the sin of the world, you forgave the two debtors their loan and granted the sinful woman forgiveness of her sins. Remit, forgive, pardon, Master, the sins, iniquities, and offences, voluntary or involuntary, committed by these servants of yours, both knowingly and unwittingly, through transgression and disobedience. And if, as human beings clothed in flesh and living in the world, they have in any way been led astray by the Devil, whether in word or deed, knowingly or unwittingly; if they have trampled on the word of a priest, or come under the curse of a priest; if they have fallen under their own anathema, or been made subject to an oath, as you are good, Master, and do not remember evils, be well pleased for these servants of yours to be loosed by a word, in accordance with your great mercy granting them absolution from their own anathema and oath. Master and Lord who loves mankind, hear us therefore as we implore your goodness on behalf of these servants of yours, and, as you are full of mercy, overlook all their faults. Deliver them from eternal punishment. For you said, Master, ‘Whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven’. For you alone are without sin, and to you we give glory, together with your Father who is without beginning, and your all-holy, good, and life-giving Spirit, now and for ever, and to the ages of ages.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|beginliturgy', 'text' : 'The Priest, lifting up the book of the Gospel, and making the sign of the Cross with it over the Antimension, says in a clear voice:'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|godisthelord', 'text' : 'Blessed is he who comes in the name of the Lord. The Lord is God and has appeared to us.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|vadizo', 'text' : 'See, to divine Communion I approach; My Maker, burn me not as I partake, For you are fire consuming the unworthy, But rather cleanse me now of every stain.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|theurgon', 'text' : 'You see the deifying Blood: have fear. It is a coal consuming the unworthy. God’s Body deifies and nourishes me strangely; both my spirit and my mind.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|blessboth', 'text' : 'Master, bless them both.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|lent5apolytikion', 'text' : 'On the 5th Sunday of Lent, of St Mary of Egypt.'}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|dis|ofday', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|pagenumber', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|part1', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|open', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|priestpreparation|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|holydoors|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|iconprayers|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|vesting|title', 'text' : ''}
