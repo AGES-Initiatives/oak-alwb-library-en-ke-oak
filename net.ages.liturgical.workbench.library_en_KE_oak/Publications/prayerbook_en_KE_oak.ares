@@ -94,11 +94,10 @@ prbk.enteringchurch.text = "I will come into your house in the multitude of your
 prbk.leavingchurch.title = "A Prayer on leaving the Church" // see leosVE.Prayer_NynApolyeis.text for the text of this prayer
 
 prbk.iconchrist.title = "Prayer before the Icon of Christ"
-prbk.iconchrist.text = "We reverence your spotless Icon, O gracious Lord, and we pray that you forgive us our sins, O Christ our God: for in your goodness you were pleased to be raised upon the cross in body, that you may save those whom you modeled from the bondage of the enemy. For this we cry out to you: You filled all things with joy, O Savior, for you came to save the world."
 Jesusprayer.title = "The Jesus Prayer"
 Jesusprayer.text = "O Lord Jesus Christ, Son of God, have mercy on me, a sinner."
 prbk.icontheotokos.title = "Prayer before the Icon of the Theotokos"
-prbk.icontheotokos.text = "As you are the fountain of humility, O Mother of God, make us worthy of compassion; look at us sinners; show your might as always, for we cry unto you in a loud voice hoping in you: Hail! As did Gabriel, the commander of the bodiless powers of Heaven."
+prbk.icontheotokos.text = "As you are the fountain of humility, O Mother of God, make us worthy of compassion; look at us sinners; show your might as always, for we cry unto you in a loud voice hoping in you: Hail! As did Gabriel, the commander of the bodiless powers of Heaven." // not being used but I didn't want to lose this version--MP
 prbk.songtheotokos.title = "The song to the Theotokos" // see AxionEstin.text for the text of this prayer
 prbk.angelicsalutation.title = "" // see hoVE.LentApolytikion1.text for the text of this prayer
 
