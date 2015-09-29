@@ -711,7 +711,12 @@
 {'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|pagenumber', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|part1', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|open', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|prayereachvestment', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_en_UK_lash|li|priestpreparation|title', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_en_UK_lash|li|holydoors|title', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_en_UK_lash|li|iconprayers|title', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_en_UK_lash|li|vesting|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|proskomidi|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|proskomidi|title2', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|wineandwater|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|lift', 'text' : ''}
