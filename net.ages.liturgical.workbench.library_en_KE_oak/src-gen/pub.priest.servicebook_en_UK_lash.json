@@ -712,6 +712,7 @@
 {'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|part1', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|open', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|prayereachvestment', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|rubric|particlesall', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_en_UK_lash|li|priestpreparation|title', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_en_UK_lash|li|holydoors|title', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_en_UK_lash|li|iconprayers|title', 'text' : ''}
@@ -719,4 +720,9 @@
 {'id_' : 'pub|priest|servicebook_en_UK_lash|li|proskomidi|title', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_en_UK_lash|li|proskomidi|title2', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_en_UK_lash|li|wineandwater|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|commemoration|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|incense|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|cover|title', 'text' : ''}
 {'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|lift', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|remembercountry', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_en_UK_lash|li|preparation|placestar', 'text' : ''}
