@@ -511,6 +511,7 @@ li.rubric.theotokion = "Theotokion."
 li.theotokion = "At the prayers of all your Saints and of the Mother of God, grant us your peace, O Lord, and have mercy on us, for you alone are compassionate."
 li.uliyewathamani = "Greater in honour than the Cherubim, and beyond compare more glorious than the Seraphim, without corruption you gave birth to God the Word: truly the Mother of God, we magnify you."
 li.rubric.anddismissal = "And Dismissal."
+
 li.apolytikia.title = "APOLYTIKIA OF THE RESURRECTION"
 li.intones.title = "IN THE EIGHT MODES"
 li.apolytikiontone1 = "When the stone had been sealed by the Jews, and while soldiers were guarding your most pure Body, you rose, O Saviour, on the third day, giving life to the world; therefore the heavenly Powers cried out to you, Giver of life: Glory to your Resurrection, O Christ! Glory to your Kingdom! Glory to your dispensation, only lover of mankind!"
@@ -521,6 +522,7 @@ li.apolytikiontone5 = "The Word without beginning with Father and with Spirit, b
 li.apolytikiontone6 = "Angelic Powers were at your grave, and those who guarded it became as dead, and Mary stood by the tomb, seeking your most pure Body. You despoiled Hades and emerged unscathed; you met the Virgin and granted life. Lord, risen from the dead, glory to you!"
 li.apolytikiontone7 = "You abolished death by your Cross, you opened Paradise to the Thief, you transformed the Myrrhbearers’ lament, and ordered your Apostles to proclaim that you had risen, O Christ God, granting the world your great mercy."
 li.apolytikiontone8 = "You came down from above, O Compassionate, you accepted burial for three days, that you might free us from the passions. Our life and resurrection, Lord, glory to you!"
+
 li.apolytikiafeasts.title = "APOLYTIKIA FOR THE GREAT FEASTS"
 li.rubric.nativitytheotokosapolytikion = "September 8th. The Nativity of the Mother of God, and until the Close on the 12th."
 li.nativitytheotokos.apolytikion = "Your nativity, O Mother of God, brought joy to the whole inhabited world, for from you there dawned the Sun of righteousness, Christ our God. He abolished the curse and gave the blessing; and by making death of no effect he bestowed on us eternal life."
@@ -544,6 +546,7 @@ li.rubric.transfigurationapolytikion = "August 6th. The Transfiguration of our S
 li.transfiguration.apolytikion = "You were transfigured on the mountain, O Christ God, showing your Disciples your glory, as far as they could bear it. At the prayers of the Mother of God make your everlasting light shine also on us sinners. Giver of light, glory to you."
 li.rubric.dormitionapolytikion = "August 15th. The Dormition of the Mother of God, and until the Close on the 23rd (or the 28th)."
 li.dormition.apolytikion = "In giving birth you retained your virginity; in falling asleep you did not abandon the world, O Mother of God; you passed over into life, for you are the Mother of Life; and by your prayers you deliver our souls from death."
+
 li.apolytikiatriodionpentecostarion.title = "APOLYTIKIA FROM THE TRIODION AND PENTECOSTARION"
 li.rubric.lent1apolytikion = "On the 1st Sunday of Lent, the Sunday of Orthodoxy."
 li.lent1.apolytikion = "We venerate your most pure icon, loving Lord, as we ask pardon of our offences, Christ God. For by your own choice you were well-pleased to ascend the Cross in the flesh, to deliver from the slavery of the enemy those whom you had fashioned; therefore with thanksgiving we cry to you: You have filled all things with joy, our Saviour, by coming to save the world."
@@ -575,6 +578,7 @@ li.rubric.pentecostapolytikion = "On the Sunday of Pentecost, and until the Leav
 li.pentecost.apolytikion = "Blessed are you, Christ our God, who proclaimed the fishermen to be most wise by sending down to them the Holy Spirit, and so through them catching the whole world in a net. Lover of mankind, glory to you!"
 li.rubric.allsaintsapolytikion = "On the Sunday of All Saints."
 li.allsaints.apolytikion = "Clothed as in purple and fine linen with the blood of your Martyrs throughout the world, your Church cries out to you through them, Christ God: Send down your pity on your people; grant peace to your commonwealth, and to our souls your great mercy."
+
 li.kontakia.title = "KONTAKIA FOR THE SEASONS OF THE YEAR"
 li.rubric.sept1kontakion = "September 1st. Beginning of the Indiction."
 li.melody.cross = "Lifted up on the Cross."
@@ -665,6 +669,7 @@ li.tilsept12.kontakion = "Joachim and Anna were set free from the reproach of ch
 li.rubric.aug31kontakion = "On August 31st. The Deposition of the Cincture of the Mother of God."
 li.melody.prayers = "Nor tomb nor death."
 li.aug31.kontakion = "Your honoured cincture, Mother of God, which encircled your womb that received God, is for your City invincible might and an inexhaustible treasury of blessings, ever-virgin who alone gives birth."
+
 li.artoclasia.title = "SERVICE OF THE ARTOKLASIA"
 li.artoclasiavespers.title = "1. At Vespers"
 li.rubric.artoclasiapreparation = "When there is an Artoklasia, the loaves with wheat, wine and oil are placed in the centre of the Church; and, while the Chanters sing one of the troparia of the Liti of the Saint whose feast is being celebrated (if the feast has no Liti, the Apolytikion is sung), the Priest and Deacon come from the Sanctuary by the Holy Doors, with lights and incense, and take their stand in the middle of the Church."

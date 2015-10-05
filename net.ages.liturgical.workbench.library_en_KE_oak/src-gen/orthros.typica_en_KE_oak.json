@@ -2,4 +2,7 @@
 {'id_' : 'orthros|typica_en_KE_oak|o|t|book|title2', 'text' : 'These services are done in the Holy Archbishopric of Kenya when no Priest is present'}
 {'id_' : 'orthros|typica_en_KE_oak|o|t|book|title3', 'text' : 'They are also done when the Priest is present but cannot serve the Liturgy due to lack of wine or prosfora, or any other reason'}
 {'id_' : 'orthros|typica_en_KE_oak|rubric|order', 'text' : ''Reader' refers to the senior reader. This may be the Priest, if not serving as a Priest, the Deacon, the sub-deacon, a tonsured reader, or the oldest layman present who agrees to read.'}
+{'id_' : 'orthros|typica_en_KE_oak|rubric|without', 'text' : 'These prayers are said without bowing or making the sign of the Cross.'}
+{'id_' : 'orthros|typica_en_KE_oak|rubric|apolytikion', 'text' : 'The hymn of the Resurrection in the tone of the week.'}
+{'id_' : 'orthros|typica_en_KE_oak|rubric|theotokion', 'text' : 'The hymm to the Theotokos in the tone of the week.'}
 {'id_' : 'orthros|typica_en_KE_oak|awesomeintercession|text', 'text' : 'O awesome intercession that cannot be put to shame, O good one, disdain not our prayer; O all-hymned Theotokos, establish the commonwealth of the Orthodox, save the Orthodox Christians, and grant unto them victory from heaven, for thou didst bring forth God, O only blessed one.'}
