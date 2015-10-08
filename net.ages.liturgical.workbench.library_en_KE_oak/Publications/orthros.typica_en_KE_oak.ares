@@ -4,6 +4,7 @@ orthros.typica.book.title = "Sunday Orthros and Typica"
 
 o.t.book.title2 = "These services are done in the Holy Archbishopric of Kenya when no Priest is present"
 o.t.book.title3 = "They are also done when the Priest is present but cannot serve the Liturgy due to lack of wine or prosfora, or any other reason"
+magnificat.title = "The Song of the Theotokos"
 
 rubric.order = "'Reader' refers to the senior reader. This may be the Priest, if not serving as a Priest, the Deacon, the sub-deacon, a tonsured reader, or the oldest layman present who agrees to read."
 rubric.without = "These prayers are said without bowing or making the sign of the Cross."
