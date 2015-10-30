@@ -15,5 +15,8 @@
 {'id_' : 'orthros|typica_en_KE_oak|rubric|synaxarion', 'text' : 'The Synaxarion (Life of the saint of the day) is read.'}
 {'id_' : 'orthros|typica_en_KE_oak|rubric|begintypika', 'text' : 'The service of Typika is now begun.'}
 {'id_' : 'orthros|typica_en_KE_oak|rubric|opencurtain', 'text' : 'After finishing Orthros, the curtain of the Beautiful Gate is opened.'}
+{'id_' : 'orthros|typica_en_KE_oak|rubric|prokeimenon', 'text' : 'The prokeimenon (psalm verse) before the reading from the Holy Scriptures. In the tone of the week.'}
 {'id_' : 'orthros|typica_en_KE_oak|awesomeintercession|text', 'text' : 'O awesome intercession that cannot be put to shame, O good one, disdain not our prayer; O all-hymned Theotokos, establish the commonwealth of the Orthodox, save the Orthodox Christians, and grant unto them victory from heaven, for thou didst bring forth God, O only blessed one.'}
 {'id_' : 'orthros|typica_en_KE_oak|exapostilarion|theotokion|text', 'text' : ''}
+{'id_' : 'orthros|typica_en_KE_oak|heavenlychoir|a', 'text' : ''}
+{'id_' : 'orthros|typica_en_KE_oak|heavenlychoir|b', 'text' : ''}
