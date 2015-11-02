@@ -12,6 +12,7 @@
 {'id_' : 'orthros|typica_en_KE_oak|rubric|anavathmi', 'text' : 'The Anavathmi are sung in the tone of the week.'}
 {'id_' : 'orthros|typica_en_KE_oak|rubric|orthrosgospel', 'text' : 'The senior reader reads (not chants) the Gospel of Orthros.'}
 {'id_' : 'orthros|typica_en_KE_oak|rubric|kontakion', 'text' : 'The reader chants the kontakion in the tone of the week.'}
+{'id_' : 'orthros|typica_en_KE_oak|rubric|kontakion2', 'text' : 'The kontakion in the tone of the week.'}
 {'id_' : 'orthros|typica_en_KE_oak|rubric|synaxarion', 'text' : 'The Synaxarion (Life of the saint of the day) is read.'}
 {'id_' : 'orthros|typica_en_KE_oak|rubric|begintypika', 'text' : 'The service of Typika is now begun.'}
 {'id_' : 'orthros|typica_en_KE_oak|rubric|opencurtain', 'text' : 'After finishing Orthros, the curtain of the Beautiful Gate is opened.'}
@@ -20,3 +21,4 @@
 {'id_' : 'orthros|typica_en_KE_oak|exapostilarion|theotokion|text', 'text' : ''}
 {'id_' : 'orthros|typica_en_KE_oak|heavenlychoir|a', 'text' : ''}
 {'id_' : 'orthros|typica_en_KE_oak|heavenlychoir|b', 'text' : ''}
+{'id_' : 'orthros|typica_en_KE_oak|heavenlychoir|c', 'text' : ''}
