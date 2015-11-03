@@ -9,7 +9,7 @@
 {'id_' : 'orthros|typica_en_KE_oak|rubric|apolytikion', 'text' : 'The hymn of the Resurrection in the tone of the week.'}
 {'id_' : 'orthros|typica_en_KE_oak|rubric|theotokion', 'text' : 'The hymm to the Theotokos in the tone of the week.'}
 {'id_' : 'orthros|typica_en_KE_oak|rubric|hypakoe', 'text' : 'The reader reads the Hypakoe of the tone of the week, chanting only the last phrase. The people repeat the last phrase after him.'}
-{'id_' : 'orthros|typica_en_KE_oak|rubric|anavathmi', 'text' : 'The Anavathmi are sung in the tone of the week.'}
+{'id_' : 'orthros|typica_en_KE_oak|rubric|anavathmi', 'text' : 'The Anavathmi (Hymns of Ascent) are sung in the tone of the week.'}
 {'id_' : 'orthros|typica_en_KE_oak|rubric|orthrosgospel', 'text' : 'The senior reader reads (not chants) the Gospel of Orthros.'}
 {'id_' : 'orthros|typica_en_KE_oak|rubric|kontakion', 'text' : 'The reader chants the kontakion in the tone of the week.'}
 {'id_' : 'orthros|typica_en_KE_oak|rubric|kontakion2', 'text' : 'The kontakion in the tone of the week.'}
@@ -17,8 +17,11 @@
 {'id_' : 'orthros|typica_en_KE_oak|rubric|begintypika', 'text' : 'The service of Typika is now begun.'}
 {'id_' : 'orthros|typica_en_KE_oak|rubric|opencurtain', 'text' : 'After finishing Orthros, the curtain of the Beautiful Gate is opened.'}
 {'id_' : 'orthros|typica_en_KE_oak|rubric|prokeimenon', 'text' : 'The prokeimenon (psalm verse) before the reading from the Holy Scriptures. In the tone of the week.'}
+{'id_' : 'orthros|typica_en_KE_oak|rubric|icon', 'text' : 'The faithful venerate the icon of Christ or of the Saint of the day.'}
+{'id_' : 'orthros|typica_en_KE_oak|rubric|bell', 'text' : 'The bell is rung.'}
 {'id_' : 'orthros|typica_en_KE_oak|awesomeintercession|text', 'text' : 'O awesome intercession that cannot be put to shame, O good one, disdain not our prayer; O all-hymned Theotokos, establish the commonwealth of the Orthodox, save the Orthodox Christians, and grant unto them victory from heaven, for thou didst bring forth God, O only blessed one.'}
 {'id_' : 'orthros|typica_en_KE_oak|exapostilarion|theotokion|text', 'text' : ''}
-{'id_' : 'orthros|typica_en_KE_oak|heavenlychoir|a', 'text' : ''}
-{'id_' : 'orthros|typica_en_KE_oak|heavenlychoir|b', 'text' : ''}
-{'id_' : 'orthros|typica_en_KE_oak|heavenlychoir|c', 'text' : ''}
+{'id_' : 'orthros|typica_en_KE_oak|heavenlychoir|a', 'text' : 'The heavenly choir extols you and says:'}
+{'id_' : 'orthros|typica_en_KE_oak|heavenlychoir|b', 'text' : 'Holy, Holy, Holy, Lord Sabaoth; heaven and earth are full of Your glory.'}
+{'id_' : 'orthros|typica_en_KE_oak|heavenlychoir|c', 'text' : 'The choir of holy Angels and Archangels, with all the heavenly Powers, extols you and says:'}
+{'id_' : 'orthros|typica_en_KE_oak|TY0501', 'text' : 'All-Holy Trinity, the consubstantial dominion, the indivisible rule, and cause of every good: be well pleased, even with regard to me a sinner. Strengthen my heart and grant it understanding, and take away all my defilement. Illumine my mind, so that I may ever glorify, praise, worship, and say:'}
